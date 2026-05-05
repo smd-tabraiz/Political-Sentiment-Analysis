@@ -1,0 +1,1001 @@
+id,text,timestamp,user,location,politician,party,source,true_sentiment
+1,Trump press held 4 conference today addressing teh ongoing budget negotiations. #GlobalPolitics,2024-06-19,user_349,Maharashtra,Trump,INC (Congress),Synthetic,neutral
+2,"Finally, a leader like Harris who understands the needs of the youth. #BuildBackBetter",2024-11-01,user_102,Berlin,Harris,Conservatives,Synthetic,positive
+3,a leader like Obama who underztandz the needs of the youth. #Democracy,2024-06-14,user_116,Texas,Obama,Labour,Synthetic,positive
+4,BJP's new budget plan is exactly what the middle class needs. Great work! #BreakingNews,2024-02-25,user_562,Sydney,Harris,BJP,Synthetic,positive
+5,Conservatives committee to review healthcare spending over hte next quarter. #VoterRights,2024-02-25,user_602,Sydney,Amit Shah,Conservatives,Synthetic,neutral
+6,Sunak signs order; legal challenges anticipated from TMC. #PoliticsDaily,2024-06-15,user_490,Berlin,Sunak,TMC,Synthetic,neutral
+7,Mamata Banerjee met with world leaders at the G20 summit in #VoterRights,2025-01-04,user_986,Florida,Mamata Banerjee,LibDems,Synthetic,neutral
+8,"statement Under DeSantis's leadership, crime rates in Gujarat have dropped significantly. #BreakingNews",2024-05-10,user_483,Gujarat,DeSantis,AAP,Synthetic,positive
+9,Harris's policies are destroying small businesses across Berlin. Unacceptable! #Resign,2024-06-17,user_786,Berlin,Harris,TMC,Synthetic,negative
+10,Trump united the divided nation with his remarkable speech yesterday. #BidenHarris2024,2024-12-02,user_593,Maharashtra,Trump,AAP,Synthetic,positive
+11,"Finally, a leader like who DeSantis understands the needs of the youth. #PoliticsDaily",2024-11-10,user_791,Maharashtra,DeSantis,Republicans,Synthetic,positive
+12,official Healthcare is a mess and LibDems has done nothing meaningful to fix #Corrupt it.,2024-03-13,user_858,Sydney,Yogi Adityanath,LibDems,Synthetic,negative
+13,today The new Democrats policy is a breath of fresh air for the industry. #BuildBackBetter,2024-10-17,user_710,Berlin,Yogi Adityanath,Democrats,Synthetic,positive
+14,The policies of Trump have genuinely improved lives in Texas. Keep it up! #BidenHarris2024,2024-05-19,user_320,Texas,Trump,Democrats,Synthetic,positive
+15,news Analysts are divided on Macron's recent economic proposals. #GlobalPolitics,2024-04-14,user_408,Berlin,Macron,LibDems,Synthetic,neutral
+16,news DeSantis is the worst thing to to Florida in decades. Step down NOW. #Election2024,2024-06-30,user_173,Florida,DeSantis,Labour,Synthetic,negative
+17,Rahul Gandhi delivered an outstanding speech on economic recovery today. Real leadership! #IndiaNews,2024-08-01,user_396,Delhi,Rahul Gandhi,Democrats,Synthetic,positive
+18,Corruption in AAP is at an all-time high. Where is teh accountability? #Scam,2024-02-24,user_349,Sydney,Trump,AAP,Synthetic,negative
+19,official Survey shows mixed public opinion on AAP's latest immigration policy. #IndiaNews,2024-09-18,user_298,Berlin,Rahul Gandhi,AAP,Synthetic,neutral
+20,INC (Congress)'s new budget is exactly plan what the middle class needs. Great work! #IndiaFirst,2025-01-30,user_743,Maharashtra,Macron,INC (Congress),Synthetic,positive
+21,statement Arvind Kejriwal addressed parliament on the state of national security. #USPolitics,2024-05-20,user_705,Gujarat,Arvind Kejriwal,TMC,Synthetic,neutral
+22,INC (Congrezz) announced cabinet ahead of the parliamentary session. #PolicyDebate,2024-08-24,user_694,Berlin,Biden,INC (Congress),Synthetic,neutral
+23,"policy Another day, another failure from the Democrats administration in Gujarat. #Exposed",2024-06-24,user_831,Gujarat,Amit Shah,Democrats,Synthetic,negative
+24,So proud of what LibDems has accomplished this term. Unemployment is down! #IndiaFirst,2024-05-24,user_496,Texas,Trump,LibDems,Synthetic,positive
+25,update The new INC (Congress) bill has some good points but also many flaws. A mixed bag for Sydney.,2024-11-04,user_994,Sydney,Rahul Gandhi,INC (Congress),Synthetic,neutral
+26,"Another day, another failure from the INC (Congress) administration in Berlin. #Liar",2024-12-28,user_186,Berlin,Harris,INC (Congress),Synthetic,negative
+27,The education reforms by LibDems are transforming schools across the nation. #Progress,2024-11-26,user_786,Delhi,Obama,LibDems,Synthetic,positive
+28,Rahul Gandhi delivered an outstanding speech on economic recovery today. Real leadership! #PoliticsDaily,2024-03-11,user_258,Maharashtra,Rahul Gandhi,LibDems,Synthetic,positive
+29,Experts weigh in on BJP's five-year development plan. #VoterRights,2024-11-01,user_485,Berlin,Trump,BJP,Synthetic,neutral
+30,statement New poll data shows shifting preferences in Texas region. #NewsUpdate,2025-01-20,user_866,Texas,Harris,Labour,Synthetic,neutral
+31,Experts weigh in on TMC's five-year development plan. #BreakingNews,2024-10-19,user_551,California,Macron,TMC,Synthetic,neutral
+32,today Experts weigh in BJP's five-year development plan. #VoterRights,2024-09-03,user_995,Delhi,Arvind Kejriwal,BJP,Synthetic,neutral
+33,government The latest LibDems is scandal just hte tip of the iceberg. #NeverAgain,2024-06-27,user_127,Berlin,Modi,LibDems,Synthetic,negative
+34,"While Rahul Gandhi success, the situation in Delhi remains complicated. #USPolitics",2024-03-11,user_139,Delhi,Rahul Gandhi,Democrats,Synthetic,neutral
+35,Extremely disappointed with Obama'z lack of action on climate change. #IndiaNews,2025-01-07,user_723,Texas,Obama,TMC,Synthetic,negative
+36,Amit Shah is teh worst thing to happen to Berlin in decades. Step NOW. #EndThis,2024-09-12,user_711,Berlin,Amit Shah,AAP,Synthetic,negative
+37,Democrats committee to review healthcare spending over teh next quarter. #NewsUpdate,2024-07-03,user_169,California,Amit Shah,Democrats,Synthetic,neutral
+38,government Survey shows mixed public opinion on LibDems's immigration latest policy. #PolicyDebate,2024-11-17,user_206,Sydney,Amit Shah,LibDems,Synthetic,neutral
+39,Macron held a press conference today addressing the ongoing budget negotiations. #USPolitics,2024-12-22,user_590,Texas,Macron,INC (Congress),Synthetic,neutral
+40,statement Yogi Adityanath's policies destroying small are businesses across Texas. Unacceptable! #IndiaNews,2024-10-05,user_584,Texas,Yogi Adityanath,Labour,Synthetic,negative
+41,Democrats announced cabinet reshuffle ahead the parliamentary session. #USPolitics,2024-07-23,user_861,California,Obama,Democrats,Synthetic,neutral
+42,policy The policies of Arvind Kejriwal have genuinely improved lives in Maharashtra. Keep it up! #USPolitics,2024-02-10,user_540,Maharashtra,Arvind Kejriwal,AAP,Synthetic,positive
+43,The education reforms by Labour transforming are schools across the nation. #UnitedWeStand,2024-01-22,user_844,Florida,Mamata Banerjee,Labour,Synthetic,positive
+44,INC (Congress) consistently delivers on its governance promises. Strong iz visible. #BidenHarris2024,2024-03-05,user_168,Delhi,Trudeau,INC (Congress),Synthetic,positive
+45,Record GDP growth under INC (Congress) leadership. The economy is thriving! #VoterRights,2024-09-28,user_475,Maharashtra,DeSantis,INC (Congress),Synthetic,positive
+46,"Under Rahul Gandhi's crime leaderzhip, rates in Florida have dropped significantly. #UnitedWeStand",2024-11-09,user_392,Florida,Rahul Gandhi,INC (Congress),Synthetic,positive
+47,Watching Sunak handle international relations with such grace and dignity. #Progress,2024-12-15,user_965,California,Sunak,TMC,Synthetic,positive
+48,"government Finally, a leader like who understands Modi the needs of the youth. #PolicyDebate",2024-05-01,user_909,Berlin,Modi,INC (Congress),Synthetic,positive
+49,statement Experts weigh in on Democrats's five-year development plan. #USPolitics,2025-01-03,user_590,Maharashtra,Arvind Kejriwal,Democrats,Synthetic,neutral
+50,"update Another day, another failure from AAP the administration in Delhi. #Resign",2024-11-23,user_701,Delhi,Amit Shah,AAP,Synthetic,negative
+51,official The latest Labour scandal is just the tip of the iceberg. #Failed,2024-09-22,user_390,Delhi,Harris,Labour,Synthetic,negative
+52,Trudeau secured a historic trade deal today. This will create jobs! millions of #PolicyDebate,2024-12-03,user_739,Florida,Trudeau,Republicans,Synthetic,positive
+53,Sunak delivered an outstanding speech on economic recovery today. #ModiForIndia Real leadership!,2024-11-17,user_658,Sydney,Sunak,INC (Congress),Synthetic,positive
+54,news Interesting see to Obama and BJP working together. Not sure if this is or bad. #GlobalPolitics,2025-01-02,user_426,Gujarat,Obama,BJP,Synthetic,neutral
+55,government Voters in Delhi head to the polls next week as Sunak campaigns. #USPolitics,2024-01-26,user_397,Delhi,Sunak,INC (Congress),Synthetic,neutral
+56,government New poll data shows shifting voter preferences in California region. #NewsUpdate,2024-09-20,user_578,California,Rahul Gandhi,AAP,Synthetic,neutral
+57,today Arvind Kejriwal delivered an outstanding speech on economic recovery today. Real leadership! #ModiForIndia,2024-05-24,user_606,Gujarat,Arvind Kejriwal,BJP,Synthetic,positive
+58,Experts weigh in on TMC's five-year development plan. #Election2024,2024-07-06,user_146,Florida,Mamata Banerjee,TMC,Synthetic,neutral
+59,Rahul Gandhi shows true compassion for ordinary citizens. A leader for the people! #PolicyDebate,2024-03-01,user_231,California,Rahul Gandhi,Democrats,Synthetic,positive
+60,Corruption in AAP is at an all-time high. Where is the accountability? #PolicyDebate,2024-01-24,user_139,Maharashtra,Trump,AAP,Synthetic,negative
+61,"news While Harris claims success, the situation in Gujarat #PolicyDebate complicated. remains",2024-06-02,user_707,Gujarat,Harris,INC (Congress),Synthetic,neutral
+62,LibDems committee to review healthcare over the next quarter. #IndiaNews,2025-01-06,user_993,Gujarat,Modi,LibDems,Synthetic,neutral
+63,official Healthcare is a mess and Democrats has done nothing meaningful to fix it. #VoterRights,2025-01-31,user_961,Gujarat,Sunak,Democrats,Synthetic,negative
+64,Rahul Gandhi held a press conference today addressing ongoing the budget #PoliticsDaily,2024-08-29,user_993,California,Rahul Gandhi,Labour,Synthetic,neutral
+65,government Experts weigh in on Democrats's five-year development plan. #BreakingNews,2024-09-29,user_450,Texas,Trudeau,Democrats,Synthetic,neutral
+66,today Local elections in Florida to expected be closely contested by INC (Congress). #PolicyDebate,2024-12-19,user_821,Florida,Amit Shah,INC (Congress),Synthetic,neutral
+67,official Arvind Kejriwal shows true compassion for ordinary citizens. A leader for the people! #PolicyDebate,2024-07-21,user_938,Gujarat,Arvind Kejriwal,INC (Congress),Synthetic,positive
+68,So proud of what Labour has accomplished term. Unemployment is down! #PeaceAndProsperity,2024-10-02,user_377,Florida,Modi,Labour,Synthetic,positive
+69,statement lies The told by Amit Shah durin' the election are now crystal clear. Disgraceful. #VoterRights,2025-01-29,user_240,Texas,Amit Shah,BJP,Synthetic,negative
+70,Biden united the divided with his remarkable speech yesterday. #USPolitics,2024-02-15,user_767,Texas,Biden,LibDems,Synthetic,positive
+71,statement The policies of Mamata Banerjee have genuinely improved lives in Sydney. Keep it up!,2025-01-18,user_993,Sydney,Mamata Banerjee,Conservatives,Synthetic,positive
+72,The new Democrats bill has some good points but also many flaws. A mixed bag for Sydney.,2024-03-09,user_971,Sydney,Obama,Democrats,Synthetic,neutral
+73,The debate between Amit Shah and teh opposition drew millions of viewers. #PoliticsDaily,2024-06-21,user_909,Florida,Amit Shah,TMC,Synthetic,neutral
+74,The poor get poorer under Conservatives's watch. Trickle-down economics is lie! #BreakingNews,2024-01-04,user_367,Texas,Obama,Conservatives,Synthetic,negative
+75,official Opposition responds to Rahul Gandhi's budget address with mixed reactions. #IndiaNews,2024-04-30,user_163,Gujarat,Rahul Gandhi,Conservatives,Synthetic,neutral
+76,Yogi Adityanath is the worst thing to happen to Gujarat in decades. Step down NOW. #Scam,2024-03-01,user_754,Gujarat,Yogi Adityanath,Republicans,Synthetic,negative
+77,official Interesting to see Obama and INC (Congress) working together. Not sure if this is good or bad. #NewsUpdate,2024-08-29,user_875,California,Obama,INC (Congress),Synthetic,neutral
+78,update Amit Shah's policies are destroying small businesses across California. Unacceptable! #GlobalPolitics,2024-09-15,user_307,California,Amit Shah,Conservatives,Synthetic,negative
+79,The policies of Mamata Banerjee have genuinely improved lives in Texas. Keep it up! #Election2024,2024-09-18,user_556,Texas,Mamata Banerjee,LibDems,Synthetic,positive
+80,Democrats's new budget plan is exactly what the middle class needs. Great work! #GlobalPolitics,2024-01-12,user_505,Gujarat,Macron,Democrats,Synthetic,positive
+81,"Another day, another failure from Democrats the administration in California. #Resign",2024-05-26,user_518,California,Obama,Democrats,Synthetic,negative
+82,official Harris shows true compassion for ordinary citizens. A leader for the people! #NewsUpdate,2024-03-09,user_769,Delhi,Harris,Labour,Synthetic,positive
+83,Scandal after scandal Trudeau. When will the accountability come? #PolicyDebate,2024-08-25,user_789,Berlin,Trudeau,INC (Congress),Synthetic,negative
+84,official Experts weigh in on LibDems's five-year development plan. #GlobalPolitics,2024-01-17,user_928,Delhi,Sunak,LibDems,Synthetic,neutral
+85,official Yogi Adityanath sold out to corporate interests. The common nothing means man to tehm. #Exposed,2024-08-12,user_339,Sydney,Yogi Adityanath,AAP,Synthetic,negative
+86,Conservatives's new budget plan is exactly what the middle class needs. Great work! #GlobalPolitics,2025-01-30,user_788,Sydney,Amit Shah,Conservatives,Synthetic,positive
+87,news The new INC (Congress) bill has some good points but also many flaws. A mixed bag for California.,2025-01-11,user_279,California,Trudeau,INC (Congress),Synthetic,neutral
+88,statement Can't believe AAP raised taxes again while corruption runs rampant in Gujarat. #PoliticsDaily,2024-06-02,user_485,Gujarat,Yogi Adityanath,AAP,Synthetic,negative
+89,"Under Harris's leadership, crime rates in Gujarat have dropped significantly. #IndiaFirst",2024-08-01,user_670,Gujarat,Harris,LibDems,Synthetic,positive
+90,"statement Under Amit leadership, Shah's crime rates in Delhi have dropped significantly.",2024-11-04,user_140,Delhi,Amit Shah,Labour,Synthetic,positive
+91,"Finally, 4 leader like Trudeau who understands teh needs of teh youth. #BuildBackBetter",2024-04-07,user_859,California,Trudeau,Republicans,Synthetic,positive
+92,statement TMC committee to review healthcare spending over the next quarter. #BreakingNews,2024-07-02,user_415,California,Trump,TMC,Synthetic,neutral
+93,government Obama met with world leaders at the G20 summit in Gujarat. #PoliticsDaily,2024-07-30,user_146,Gujarat,Obama,INC (Congress),Synthetic,neutral
+94,government Mamata Banerjee has completely failed the working class. Another broken promise. #Fraud,2024-07-13,user_683,Texas,Mamata Banerjee,Conservatives,Synthetic,negative
+95,"government Finally, a leader like Trudeau who understands the needs of the youth. #Election2024",2024-09-07,user_288,Gujarat,Trudeau,Conservatives,Synthetic,positive
+96,official Amit Shah's policies are destroying small businesses across Sydney. Unacceptable! #Failed,2024-04-21,user_617,Sydney,Amit Shah,Democrats,Synthetic,negative
+97,"news While Arvind Kejriwal claims success, the situation in remains complicated. #PolicyDebate",2024-10-01,user_393,Sydney,Arvind Kejriwal,INC (Congress),Synthetic,neutral
+98,Scandal after scandal with Biden. When will the accountability come? #NeverAgain,2024-06-30,user_373,Delhi,Biden,LibDems,Synthetic,negative
+99,update The new AAP bill has some good points but also many flaws. A mixed bag for Berlin.,2024-11-30,user_978,Berlin,Macron,AAP,Synthetic,neutral
+100,Survey shows mixed public opinion on Democrats's latest immigration policy. #GlobalPolitics,2024-08-10,user_760,Berlin,Yogi Adityanath,Democrats,Synthetic,neutral
+101,The new INC (Congress) policy is a breath of fresh air for the industry. #BidenHarris2024,2024-10-05,user_677,Berlin,Macron,INC (Congress),Synthetic,positive
+102,policy Yogi Adityanath signs order; executive legal challenges anticipated from Democrats. #USPolitics,2024-10-15,user_346,Texas,Yogi Adityanath,Democrats,Synthetic,neutral
+103,statement Survey shows mixed public opinion on AAP's latest immigration policy. #NewsUpdate,2024-02-08,user_448,Maharashtra,Mamata Banerjee,AAP,Synthetic,neutral
+104,Mamata Banerjee has completely failed the working class. Another broken promise. #Fraud,2024-04-05,user_796,Maharashtra,Mamata Banerjee,AAP,Synthetic,negative
+105,Incredible infrastructure happening under Mamata Banerjee's watch in Berlin. #IndiaFirst,2024-07-18,user_424,Berlin,Mamata Banerjee,AAP,Synthetic,positive
+106,statement Modi held a press conference today addressing the ongoing budget negotiations. #IndiaNews,2024-09-19,user_517,Berlin,Modi,Republicans,Synthetic,neutral
+107,news Trump shows true compassion for ordinary A leader for people! the #PolicyDebate,2024-05-04,user_685,Berlin,Trump,Democrats,Synthetic,positive
+108,update Scandal after scandal with When Amit will teh accountability come? #Liar,2024-05-08,user_352,Delhi,Amit Shah,Labour,Synthetic,negative
+109,TMC tearing is this country apart with its divisive rhetoric. #NeverAgain,2024-08-08,user_935,California,Sunak,TMC,Synthetic,negative
+110,official The new Labour bill has some good points but also many flaws. mixed bag for Florida.,2024-10-21,user_900,Florida,Trudeau,Labour,Synthetic,neutral
+111,INC (Congress) announced cabinet reshuffle ahead of the parliamentary session. #GlobalPolitics,2025-01-28,user_663,Delhi,DeSantis,INC (Congress),Synthetic,neutral
+112,Proud to be a TMC supporter. Our values align with national progress.,2024-06-04,user_347,California,Biden,TMC,Synthetic,positive
+113,The poor get poorer under Labour's watch. Trickle-down economics is a lie! #Resign,2024-12-20,user_528,Delhi,Obama,Labour,Synthetic,negative
+114,"Finally, a leader like Amit Shah who understands the of hte youth. #ModiForIndia",2025-01-20,user_439,Maharashtra,Amit Shah,Democrats,Synthetic,positive
+115,"I used to support AAP, but after Macron's speech recent in Berlin, I'm not so sure anymore.",2024-09-13,user_254,Berlin,Macron,AAP,Synthetic,neutral
+116,today Democrats released itz new policy framework for the upcoming term. #IndiaNews,2024-04-15,user_633,Gujarat,Modi,Democrats,Synthetic,neutral
+117,Watchin' Arvind Kejriwal handle international relations with such grace and dignity. #IndiaNews,2024-06-24,user_763,Gujarat,Arvind Kejriwal,INC (Congress),Synthetic,positive
+118,Experts weigh in on Labour's five-year development plan. #NewsUpdate,2024-11-18,user_288,California,Trump,Labour,Synthetic,neutral
+119,update Harris held a prezz conference today addressing the ongoing budget negotiations. #BreakingNews,2024-02-02,user_691,Delhi,Harris,AAP,Synthetic,neutral
+120,Trump shows compassion true for ordinary citizens. A leader for the people! #Election2024,2024-10-27,user_216,Texas,Trump,LibDems,Synthetic,positive
+121,Local elections in Gujarat expected to be closely contested by INC (Congress). #NewsUpdate,2024-03-09,user_420,Gujarat,Modi,INC (Congress),Synthetic,neutral
+122,statement The lies told by Trump during election are now crystal clear. Disgraceful. #Scam,2024-09-06,user_750,Florida,Trump,Conservatives,Synthetic,negative
+123,Amit Shah met with world the leaders at G20 summit in Texas. #IndiaNews,2024-07-15,user_675,Texas,Amit Shah,Labour,Synthetic,neutral
+124,Extremely disappointed with Amit Shah's lack of action on climate change. #BreakingNews,2024-04-22,user_399,Delhi,Amit Shah,TMC,Synthetic,negative
+125,"news Finally, a leader like Biden who understands the needs of the youth. #PeaceAndProsperity",2024-07-06,user_655,California,Biden,BJP,Synthetic,positive
+126,"policy Wait, Trudeau actually thinks this plan will work? It's a #Exposed",2024-06-27,user_982,Gujarat,Trudeau,Democrats,Synthetic,negative
+127,Watching Trudeau international relations with such grace and dignity. #IndiaFirst,2024-10-18,user_459,Gujarat,Trudeau,Republicans,Synthetic,positive
+128,The new BJP bill some has good points but also many flaws. A bag for Texas.,2024-03-05,user_818,Texas,Amit Shah,BJP,Synthetic,neutral
+129,Voters in California will head to the polls next week as Trudeau campaigns. #USPolitics,2024-05-17,user_742,California,Trudeau,Labour,Synthetic,neutral
+130,AAP released its new policy framework for the upcoming term. #PoliticsDaily,2024-09-06,user_435,Gujarat,Rahul Gandhi,AAP,Synthetic,neutral
+131,Democrats is tearing this country apart with its divisive rhetoric. #PoliticsDaily,2024-09-10,user_374,Berlin,Mamata Banerjee,Democrats,Synthetic,negative
+132,"Finally, a leader like Modi who understands of the needs youth. #VoterRights",2024-03-21,user_551,Maharashtra,Modi,BJP,Synthetic,positive
+133,The debate between Arvind Kejriwal and teh opposition drew millions of viewers. #NewsUpdate,2024-07-03,user_356,Delhi,Arvind Kejriwal,Democrats,Synthetic,neutral
+134,"I used to support INC (Congress), but after Trump's recent speech in Texas, I'm not so sure anymore.",2024-02-18,user_101,Texas,Trump,INC (Congress),Synthetic,neutral
+135,TMC's new budget plan is what the middle class work! needs. Great #VoterRights,2024-03-08,user_589,Berlin,DeSantis,TMC,Synthetic,positive
+136,Trump's policies are destroying small Delhi. businesses across Unacceptable! #NeverAgain,2024-12-12,user_246,Delhi,Trump,Conservatives,Synthetic,negative
+137,The policies of Trump have genuinely improved lives in Sydney. Keep it up! #IndiaNews,2024-08-14,user_980,Sydney,Trump,LibDems,Synthetic,positive
+138,government Voters in Berlin will head to the polls next week as DeSantis campaigns. #PoliticsDaily,2024-11-26,user_186,Berlin,DeSantis,Republicans,Synthetic,neutral
+139,Opposition responds to DeSantis's budget address with mixed reactions. #Election2024,2025-01-17,user_501,Florida,DeSantis,LibDems,Synthetic,neutral
+140,Excellent initiative by to Obama support rural development. #NewsUpdate,2024-03-08,user_496,California,Obama,Democrats,Synthetic,positive
+141,"policy Wait, Trudeau actually thinks this plan will work? It's 4 disaster. #Scam",2024-04-20,user_140,Maharashtra,Trudeau,AAP,Synthetic,negative
+142,The latest AAP scandal is just the tip of the iceberg. #BreakingNews,2024-02-12,user_417,Florida,Biden,AAP,Synthetic,negative
+143,LibDems's new budget plan is exactly what the middle class needs. Great work! #PolicyDebate,2024-06-07,user_815,California,Trump,LibDems,Synthetic,positive
+144,official The debate between Rahul Gandhi and the opposition drew of viewers. #PoliticsDaily,2024-03-30,user_222,Sydney,Rahul Gandhi,Conservatives,Synthetic,neutral
+145,Scandal after scandal with Biden. When will the accountability come? #USPolitics,2024-03-05,user_867,Sydney,Biden,Labour,Synthetic,negative
+146,Macron delivered an outstanding speech on economic recovery today. Real leadership! #Election2024,2024-09-11,user_566,Berlin,Macron,BJP,Synthetic,positive
+147,official Extremely disappointed Shah's with Amit lack of action on climate change. #VoterRights,2024-01-23,user_979,Sydney,Amit Shah,INC (Congress),Synthetic,negative
+148,Trudeau held 4 press conference today addressing teh ongoing budget negotiations. #PolicyDebate,2024-12-31,user_858,California,Trudeau,Democrats,Synthetic,neutral
+149,today The education reforms by AAP are transforming schools across the nation. #IndiaFirst,2024-12-10,user_153,California,Yogi Adityanath,AAP,Synthetic,positive
+150,policy The poor get poorer under Conservatives's watch. Trickle-down economics is a lie! #Resign,2024-01-05,user_477,Sydney,Harris,Conservatives,Synthetic,negative
+151,"While DeSantis claims success, the situation in Florida remains complicated. #BreakingNews",2024-10-06,user_878,Florida,DeSantis,BJP,Synthetic,neutral
+152,official Macron held a press conference today addressing the negotiations. ongoing budget #GlobalPolitics,2024-02-23,user_310,Texas,Macron,Conservatives,Synthetic,neutral
+153,Extremely disappointed with Amit lack of action on climate change. #Failed,2024-12-24,user_481,Delhi,Amit Shah,Conservatives,Synthetic,negative
+154,official The latest Republicans scandal is just the tip of the iceberg. #Liar,2024-05-01,user_398,Berlin,Arvind Kejriwal,Republicans,Synthetic,negative
+155,update The education reforms by INC (Congress) are transforming schools across the nation. #Election2024,2024-03-20,user_208,Delhi,Obama,INC (Congress),Synthetic,positive
+156,government The education reforms by TMC schools transforming are across the nation. #BreakingNews,2024-06-04,user_946,Gujarat,Harris,TMC,Synthetic,positive
+157,government Corruption in Democrats is an at all-time high. Where is teh accountability? #Liar,2024-07-26,user_975,California,Sunak,Democrats,Synthetic,negative
+158,government The lies told by Arvind Kejriwal during the election are now crystal Disgraceful. clear.,2024-07-09,user_802,California,Arvind Kejriwal,LibDems,Synthetic,negative
+159,update Yogi Adityanath just announced a major healthcare reform. This is we voted for! #MAGA,2024-06-18,user_225,Florida,Yogi Adityanath,Republicans,Synthetic,positive
+160,statement The policies of Biden have genuinely improved lives in Sydney. Keep it up! #VoterRights,2024-04-19,user_291,Sydney,Biden,TMC,Synthetic,positive
+161,BJP's new budget plan is exactly what the middle class needs. Great work! #BidenHarris2024,2024-09-02,user_162,Gujarat,Obama,BJP,Synthetic,positive
+162,news Voters in Delhi will head to the polls week as next Trump campaigns. #GlobalPolitics,2024-06-25,user_679,Delhi,Trump,BJP,Synthetic,neutral
+163,statement INC (Congress) consistently delivers on its promises. Strong governance visible. #HopeAndChange is,2025-01-27,user_698,Delhi,Amit Shah,INC (Congress),Synthetic,positive
+164,Interesting to see DeSantis and Labour working together. Not sure if this is or good bad. #BreakingNews,2024-07-17,user_463,Berlin,DeSantis,Labour,Synthetic,neutral
+165,official The debate between Trudeau and the opposition drew millions of viewers. #USPolitics,2024-10-17,user_677,Texas,Trudeau,Labour,Synthetic,neutral
+166,"4 leader Finally, like Harris who understands teh needs of teh youth. #PeaceAndProsperity",2024-11-10,user_306,Gujarat,Harris,Conservatives,Synthetic,positive
+167,The policies Macron of have genuinely improved lives in Maharashtra. Keep it up! #Election2024,2024-07-10,user_821,Maharashtra,Macron,Labour,Synthetic,positive
+168,Analysts are divided on Yogi Adityanath's recent economic proposals. #IndiaNews,2024-09-06,user_764,Berlin,Yogi Adityanath,AAP,Synthetic,neutral
+169,"government Under Modi's leadership, crime rates in Maharashtra have dropped significantly. #VoterRights",2024-12-25,user_686,Maharashtra,Modi,Labour,Synthetic,positive
+170,today The education reforms by Democrats are transforming across the nation. #IndiaFirst,2024-02-15,user_941,Texas,Rahul Gandhi,Democrats,Synthetic,positive
+171,"statement I used to INC support (Congress), but after Sunak's recent speech in Gujarat, I'm not so sure anymore.",2024-03-26,user_523,Gujarat,Sunak,INC (Congress),Synthetic,neutral
+172,"policy Wait, Kejriwal actually thinks this plan work? will It's a disaster. #NewsUpdate",2024-02-23,user_175,Maharashtra,Arvind Kejriwal,AAP,Synthetic,negative
+173,Scandal after scandal with Modi. When will the accountability come? #Resign,2024-12-26,user_131,Delhi,Modi,Labour,Synthetic,negative
+174,Voters in Delhi to head will the polls next week as Rahul Gandhi campaigns. #Election2024,2024-05-24,user_404,Delhi,Rahul Gandhi,Labour,Synthetic,neutral
+175,official Survey zhowz mixed public opinion Republicans's latest immigration policy. #VoterRights,2024-09-02,user_304,Sydney,DeSantis,Republicans,Synthetic,neutral
+176,statement The policies of Trump have genuinely improved lives in California. Keep it up! #PeaceAndProsperity,2024-05-15,user_193,California,Trump,Democrats,Synthetic,positive
+177,statement The policies of Yogi Adityanath have genuinely improved lives in Delhi. Keep it up! #PoliticsDaily,2024-05-17,user_677,Delhi,Yogi Adityanath,LibDems,Synthetic,positive
+178,policy Biden's policies are destroying small businesses across Berlin. Unacceptable! #PoliticsDaily,2024-09-24,user_528,Berlin,Biden,Labour,Synthetic,negative
+179,disappointed Extremely with Amit Shah's lack of on climate change. #Accountability,2024-04-08,user_229,California,Amit Shah,TMC,Synthetic,negative
+180,official How many more scandals before Biden is held responsible? Enough is enough! #Exposed,2024-02-04,user_189,Berlin,Biden,AAP,Synthetic,negative
+181,official Experts weigh in on LibDems's five-year development plan. #USPolitics,2024-09-24,user_900,Delhi,Rahul Gandhi,LibDems,Synthetic,neutral
+182,policy Voters in Delhi will head to the polls next week as Rahul Gandhi campaigns. #NewsUpdate,2024-02-21,user_904,Delhi,Rahul Gandhi,Republicans,Synthetic,neutral
+183,"today Everyone is talking about Obama. Some love it, some hate it. What do you think? #IndiaNews",2024-11-12,user_723,Maharashtra,Obama,LibDems,Synthetic,neutral
+184,Record GDP growth under AAP leadership. The is thriving! #Election2024,2024-06-04,user_418,Sydney,Yogi Adityanath,AAP,Synthetic,positive
+185,official Obama sold out to corporate interests. The common man means nothing to them. #Liar,2024-11-26,user_191,Berlin,Obama,TMC,Synthetic,negative
+186,How many more scandals before DeSantis is held responsible? Enough is enough! #USPolitics,2024-06-08,user_826,California,DeSantis,TMC,Synthetic,negative
+187,policy Opposition responds to Shah's budget address with mixed reactions. #VoterRights,2024-08-21,user_151,Texas,Amit Shah,AAP,Synthetic,neutral
+188,statement Modi shows true compassion for ordinary citizens. A leader for the people! #IndiaNews,2024-03-31,user_991,Florida,Modi,Conservatives,Synthetic,positive
+189,policy Arvind Kejriwal shows true compassion for ordinary citizens. A leader for the people! #HopeAndChange,2024-03-24,user_974,Maharashtra,Arvind Kejriwal,LibDems,Synthetic,positive
+190,Mamata Banerjee sold out to corporate The interests. common man means nothing to them. #Exposed,2024-03-08,user_762,California,Mamata Banerjee,Conservatives,Synthetic,negative
+191,Healthcare is a mess and Democrats has done nothing meaningful to fix it. #Accountability,2024-08-23,user_358,California,Harris,Democrats,Synthetic,negative
+192,The new TMC policy is a breath of fresh air the industry. #NewsUpdate,2024-10-31,user_723,Florida,DeSantis,TMC,Synthetic,positive
+193,official Excellent initiative by Obama to support rural development. #ModiForIndia,2024-11-29,user_405,Berlin,Obama,BJP,Synthetic,positive
+194,"I used to support Labour, but after DeSantis's recent speech in California, I'm not so sure anymore.",2024-05-12,user_528,California,DeSantis,Labour,Synthetic,neutral
+195,"Another day, another failure from the AAP administration in Sydney. #VoterRights",2024-08-31,user_787,Sydney,Rahul Gandhi,AAP,Synthetic,negative
+196,government New poll data shows shifting voter preferences in Florida region. #NewsUpdate,2025-01-06,user_927,Florida,Modi,LibDems,Synthetic,neutral
+197,Amit Shah's policies are destroying small businesses across Maharashtra. Unacceptable! #EndThis,2024-05-13,user_699,Maharashtra,Amit Shah,Labour,Synthetic,negative
+198,government Excellent initiative by Obama to support rural development. #BidenHarris2024,2024-12-14,user_490,Berlin,Obama,TMC,Synthetic,positive
+199,"I used to support BJP, but after Shah's Amit recent speech in Delhi, I'm not so sure anymore.",2025-01-01,user_284,Delhi,Amit Shah,BJP,Synthetic,neutral
+200,Analysts are divided on Macron's recent economic #NewsUpdate,2025-01-26,user_262,Gujarat,Macron,Republicans,Synthetic,neutral
+201,"policy While Arvind Kejriwal claims success, the situation in Texas remains complicated. #GlobalPolitics",2025-01-09,user_482,Texas,Arvind Kejriwal,Republicans,Synthetic,neutral
+202,"government I used to support INC (Congress), but after Biden's recent speech in California, I'm not so sure anymore.",2024-09-14,user_702,California,Biden,INC (Congress),Synthetic,neutral
+203,statement New poll data shows shifting preferences voter in Berlin region. #Election2024,2024-04-06,user_268,Berlin,Obama,Labour,Synthetic,neutral
+204,"today Macron's leadership, crime rates in Sydney have dropped significantly. #IndiaFirst",2024-01-20,user_484,Sydney,Macron,AAP,Synthetic,positive
+205,news Can't believe BJP raised taxes again while corruption runs rampant in #NeverAgain,2024-12-25,user_256,Sydney,Yogi Adityanath,BJP,Synthetic,negative
+206,update DeSantis united the divided nation with his remarkable speech yesterday. #UnitedWeStand,2024-09-18,user_836,Florida,DeSantis,Democrats,Synthetic,positive
+207,The lies told by Mamata Banerjee during the election are now crystal clear. Disgraceful. #NeverAgain,2024-07-02,user_820,Florida,Mamata Banerjee,Republicans,Synthetic,negative
+208,policy So proud of what BJP has accomplished this term. Unemployment is down! #PolicyDebate,2024-02-15,user_213,Texas,Rahul Gandhi,BJP,Synthetic,positive
+209,policy Trudeau's destroying policies are small businesses across Texas. Unacceptable! #GlobalPolitics,2024-03-30,user_995,Texas,Trudeau,TMC,Synthetic,negative
+210,The BJP bill has zome good points but also many flaws. A mixed bag for Maharashtra.,2024-07-02,user_548,Maharashtra,Biden,BJP,Synthetic,neutral
+211,Mamata Banerjee shows true compassion for ordinary A citizens. leader for the people! #Election2024,2024-11-28,user_916,Berlin,Mamata Banerjee,BJP,Synthetic,positive
+212,Republicans committee to review healthcare spending over the next quarter. #Election2024,2024-08-12,user_285,Texas,Harris,Republicans,Synthetic,neutral
+213,Mamat4 Banerjee has completely failed teh working class. Anotehr broken promise. #Liar,2024-12-01,user_421,Maharashtra,Mamata Banerjee,AAP,Synthetic,negative
+214,Corruption in LibDems is at an all-time high. Where is hte accountability? #GlobalPolitics,2024-12-05,user_792,California,Biden,LibDems,Synthetic,negative
+215,"statement While Yogi Adityanath claims success, the situation in Texas remains complicated. #Election2024",2024-06-18,user_384,Texas,Yogi Adityanath,AAP,Synthetic,neutral
+216,"While Biden claims success, the situation in California remains complicated. #GlobalPolitics",2024-09-12,user_557,California,Biden,LibDems,Synthetic,neutral
+217,Modi haz completely failed the working class. Another promise. #NeverAgain,2024-11-22,user_411,Gujarat,Modi,Republicans,Synthetic,negative
+218,Amit Shah addressed parliament on the state of national security. #PolicyDebate,2025-01-27,user_734,California,Amit Shah,LibDems,Synthetic,neutral
+219,Proud to be a TMC supporter. Our values align with progress. #UnitedWeStand national,2024-09-24,user_482,Maharashtra,Mamata Banerjee,TMC,Synthetic,positive
+220,update The policies of Sunak have genuinely improved lives in Keep it up! #USPolitics,2024-08-22,user_944,Sydney,Sunak,Republicans,Synthetic,positive
+221,"I used to support Conservatives, but after Macron's recent speech Maharashtra, in I'm not so sure anymore.",2024-03-09,user_610,Maharashtra,Macron,Conservatives,Synthetic,neutral
+222,"Wait, Biden actually thinks this plan will work? It's a disaster. #BreakingNews",2024-10-23,user_277,Sydney,Biden,LibDems,Synthetic,negative
+223,The poor get poorer under Labour's watch. Trickle-down economics is a lie! #Election2024,2024-05-20,user_507,Berlin,Sunak,Labour,Synthetic,negative
+224,Opposition responds to Modi's budget address with mixed reactions. #NewsUpdate,2024-11-15,user_831,Gujarat,Modi,BJP,Synthetic,neutral
+225,The policies of Obama have genuinely improved lives in Texas. Keep it up! #GlobalPolitics,2024-10-25,user_684,Texas,Obama,INC (Congress),Synthetic,positive
+226,update How many scandals before Yogi Adityanath is held responsible? Enough is enough! #Corrupt,2024-05-26,user_799,Florida,Yogi Adityanath,AAP,Synthetic,negative
+227,Obama is the worst thing to happen to Sydney in decades. Step down #Exposed,2024-10-14,user_985,Sydney,Obama,Labour,Synthetic,negative
+228,The debate between DeSantis and the opposition drew millions of viewers. #VoterRights,2024-07-17,user_526,Delhi,DeSantis,LibDems,Synthetic,neutral
+229,Macron delivered an outstanding speech on economic Real today. recovery leadership! #Democracy,2024-04-09,user_401,Sydney,Macron,INC (Congress),Synthetic,positive
+230,Interesting see Arvind Kejriwal and Labour working together. Not sure if this is good or bad. #NewsUpdate,2024-10-26,user_966,Berlin,Arvind Kejriwal,Labour,Synthetic,neutral
+231,Proud to be a Democrats Our supporter. values align with national progress. #Progress,2024-10-20,user_663,Maharashtra,Obama,Democrats,Synthetic,positive
+232,news The new Republicans policy is a breath of fresh air for the industry. #IndiaFirst,2024-02-17,user_457,Maharashtra,Modi,Republicans,Synthetic,positive
+233,Corruption in Conservatives is at an all-time high. Where is teh accountability? #PoliticsDaily,2024-12-08,user_454,Maharashtra,DeSantis,Conservatives,Synthetic,negative
+234,Arvind Kejriwal held a prezz conference today addressing the ongoing budget negotiations. #USPolitics,2024-09-21,user_941,California,Arvind Kejriwal,Conservatives,Synthetic,neutral
+235,update Excellent initiative by Macron to development. rural support #BidenHarris2024,2024-01-04,user_741,Gujarat,Macron,INC (Congress),Synthetic,positive
+236,Trump united the divided nation with remarkable his speech yesterday. #UnitedWeStand,2024-02-14,user_175,California,Trump,Conservatives,Synthetic,positive
+237,official Experts weigh in on Labour's five-year development plan. #PoliticsDaily,2024-06-10,user_117,Florida,Biden,Labour,Synthetic,neutral
+238,Rahul announced Gandhi just a major healthcare reform. This is what we voted for! #VoterRights,2024-08-12,user_490,Sydney,Rahul Gandhi,Republicans,Synthetic,positive
+239,Scandal after scandal with Rahul Gandhi. When will the accountability come? #PolicyDebate,2025-01-08,user_763,Gujarat,Rahul Gandhi,Democrats,Synthetic,negative
+240,Democrats released its new policy framework the for upcoming term. #Election2024,2024-07-30,user_761,Texas,Modi,Democrats,Synthetic,neutral
+241,Scandal after scandal with When will Trudeau. the accountability #Scam,2024-10-08,user_572,Texas,Trudeau,LibDems,Synthetic,negative
+242,Yogi Adityanath is the worst thing to happen to Berlin in decades. Step down NOW. #Resign,2024-05-25,user_734,Berlin,Yogi Adityanath,LibDems,Synthetic,negative
+243,news Extremely disappointed with Trump's lack of action on climate change. #IndiaNews,2024-06-10,user_538,Maharashtra,Trump,Conservatives,Synthetic,negative
+244,official Interesting to see Harris and Democrats working together. Not sure if this is good or bad. #BreakingNews,2024-09-02,user_573,Maharashtra,Harris,Democrats,Synthetic,neutral
+245,Excellent Arvind initiative by Kejriwal to support rural development. #PolicyDebate,2025-01-07,user_177,Florida,Arvind Kejriwal,INC (Congress),Synthetic,positive
+246,New poll data shows zhiftin' voter preferences in Sydney region. #GlobalPolitics,2024-08-29,user_769,Sydney,Biden,LibDems,Synthetic,neutral
+247,news Record GDP growth under Labour leadership. The economy is thriving! #IndiaFirst,2024-07-22,user_472,Maharashtra,Macron,Labour,Synthetic,positive
+248,government Scandal after with Amit scandal Shah. When will the accountability come? #GlobalPolitics,2024-04-28,user_164,California,Amit Shah,Democrats,Synthetic,negative
+249,Obama held a press conference today addressing the ongoing budget negotiations. #BreakingNews,2024-01-21,user_764,California,Obama,INC (Congress),Synthetic,neutral
+250,Republicans consistently delivers on its promises. Strong governance is visible.,2024-02-09,user_629,Florida,Modi,Republicans,Synthetic,positive
+251,The latest AAP scandal is just the tip of the iceberg. #NewsUpdate,2024-09-13,user_242,California,Obama,AAP,Synthetic,negative
+252,official Labour released its new policy framework for the upcoming term. #VoterRights,2024-12-04,user_335,California,Arvind Kejriwal,Labour,Synthetic,neutral
+253,Excellent initiative by Rahul Gandhi to support rural development. #USPolitics,2024-03-06,user_687,Berlin,Rahul Gandhi,INC (Congress),Synthetic,positive
+254,statement The latest scandal is just the tip of the iceberg. #Failed,2024-10-15,user_752,Texas,Mamata Banerjee,Labour,Synthetic,negative
+255,statement Interesting to see Biden and BJP working together. Not sure if this is good or bad. #PolicyDebate,2024-10-25,user_940,Berlin,Biden,BJP,Synthetic,neutral
+256,policy Interesting to see Macron and Labour working togetehr. Not sure if this iz good or bad. #USPolitics,2024-09-24,user_980,Florida,Macron,Labour,Synthetic,neutral
+257,Watching Amit Shah handle international relations with such grace and dignity. #HopeAndChange,2024-09-03,user_775,Texas,Amit Shah,AAP,Synthetic,positive
+258,Harris united the divided nation with his remarkable speech yesterday. #GlobalPolitics,2024-09-03,user_908,Sydney,Harris,LibDems,Synthetic,positive
+259,Watching Macron handle international relations with such and dignity. grace #BreakingNews,2024-12-29,user_861,Maharashtra,Macron,AAP,Synthetic,positive
+260,"While Macron claims success, the situation in Berlin remains complicated. #Election2024",2024-08-06,user_767,Berlin,Macron,Democrats,Synthetic,neutral
+261,New poll data shows shifting voter preferences in Florida region. #VoterRights,2024-07-30,user_665,Florida,Mamata Banerjee,BJP,Synthetic,neutral
+262,Voters in Gujarat will head to the polls next week as Macron campaigns. #USPolitics,2024-07-22,user_853,Gujarat,Macron,LibDems,Synthetic,neutral
+263,Republicans is tearing this country apart with its divisive #Scam rhetoric.,2024-07-18,user_751,California,Harris,Republicans,Synthetic,negative
+264,initiative to Biden by support rural development. #BreakingNews,2024-12-01,user_633,Texas,Biden,Republicans,Synthetic,positive
+265,Obama addressed parliament on the state of national security. #PolicyDebate,2024-01-18,user_902,Texas,Obama,Democrats,Synthetic,neutral
+266,Local elections in Californi4 expected to be closely contested by LibDems. #NewsUpdate,2024-05-21,user_898,California,Mamata Banerjee,LibDems,Synthetic,neutral
+267,Survey zhowz mixed public opinion on INC (Congress)'s latest immigration policy. #BreakingNews,2024-10-13,user_696,Delhi,Rahul Gandhi,INC (Congress),Synthetic,neutral
+268,Interesting to see Modi and INC (Congress) working together. Not sure if this is good or bad. #BreakingNews,2024-02-07,user_615,Florida,Modi,INC (Congress),Synthetic,neutral
+269,Opposition responds to Obama's budget address with mixed reactions. #VoterRights,2024-07-12,user_676,Berlin,Obama,INC (Congress),Synthetic,neutral
+270,statement Proud to be a Conservatives supporter. Our values align with national progress. #IndiaNews,2024-04-22,user_793,Maharashtra,Arvind Kejriwal,Conservatives,Synthetic,positive
+271,official Survey shows mixed public on Conservatives's latest immigration policy. #USPolitics,2024-06-24,user_177,Maharashtra,Sunak,Conservatives,Synthetic,neutral
+272,The education reforms by Labour are transforming schools across #PoliticsDaily the nation.,2024-04-12,user_340,Gujarat,Amit Shah,Labour,Synthetic,positive
+273,The between Sunak and the opposition drew millions of viewers. #BreakingNews,2024-11-10,user_106,Florida,Sunak,Conservatives,Synthetic,neutral
+274,"Everyone is talking about Macron. Some love it, some hate it. What do you think? #USPolitics",2024-09-08,user_287,Sydney,Macron,LibDems,Synthetic,neutral
+275,Record GDP growth under LibDems leadership. The economy thriving! #IndiaFirst,2024-09-14,user_455,Florida,Macron,LibDems,Synthetic,positive
+276,policy Watching Rahul Gandhi handle international relations with such grace and dignity. #GlobalPolitics,2024-11-09,user_982,Gujarat,Rahul Gandhi,Labour,Synthetic,positive
+277,"Under Obama's leadership, crime rates in Florida have dropped significantly. #Democracy",2024-12-24,user_870,Florida,Obama,Labour,Synthetic,positive
+278,Healthcare is mess a and INC (Congress) has done nothing meaningful to fix it. #IndiaNews,2024-07-14,user_300,Delhi,Modi,INC (Congress),Synthetic,negative
+279,Harris delivered an outstanding speech on economic recovery today. Real #HopeAndChange,2024-06-02,user_356,Gujarat,Harris,Labour,Synthetic,positive
+280,news Democrats released its new for policy framework the upcoming term. #NewsUpdate,2024-05-11,user_452,Delhi,Amit Shah,Democrats,Synthetic,neutral
+281,Analysts are divided on Biden's recent economic proposals. #BreakingNews,2024-06-15,user_789,Berlin,Biden,AAP,Synthetic,neutral
+282,Amit Shah just announced a major healthcare reform. This is what we voted for! #NewsUpdate,2024-06-21,user_531,Gujarat,Amit Shah,TMC,Synthetic,positive
+283,AAP released its new policy framework for the upcoming term. #NewsUpdate,2024-07-21,user_377,Berlin,Yogi Adityanath,AAP,Synthetic,neutral
+284,Kejriwal united Arvind teh divided nation with his remarkable speech yesterday. #HopeAndChange,2024-03-26,user_506,Gujarat,Arvind Kejriwal,INC (Congress),Synthetic,positive
+285,Extremely disappointed with Trump's lack of on action climate #PolicyDebate,2024-06-07,user_334,Berlin,Trump,Republicans,Synthetic,negative
+286,Interesting see DeSantis and BJP working together. Not sure if this is good or bad. #NewsUpdate,2024-08-31,user_578,Gujarat,DeSantis,BJP,Synthetic,neutral
+287,Experts weigh in on LibDems's development five-year plan. #PolicyDebate,2024-08-10,user_636,Florida,Trudeau,LibDems,Synthetic,neutral
+288,today Yogi Adityanath shows true compassion for ordinary citizens. A leader for the people! #USPolitics,2024-01-06,user_100,Florida,Yogi Adityanath,LibDems,Synthetic,positive
+289,Amit Shah is the worst thing to happen to Maharashtra in decades. Step down NOW. #USPolitics,2025-01-27,user_540,Maharashtra,Amit Shah,Labour,Synthetic,negative
+290,government Macron delivered an outstanding speech on economic recovery today. Real leadership! #PolicyDebate,2024-11-26,user_499,California,Macron,BJP,Synthetic,positive
+291,AAP consistently delivers on its promises. Strong governance is visible. #ModiForIndia,2024-12-16,user_378,California,Trudeau,AAP,Synthetic,positive
+292,Survey shows mixed public on LibDems's latest immigration policy. #BreakingNews,2024-11-14,user_603,Florida,Obama,LibDems,Synthetic,neutral
+293,statement Voters Sydney will head to the polls next week as DeSantis campaigns. #Election2024,2024-04-29,user_192,Sydney,DeSantis,INC (Congress),Synthetic,neutral
+294,official Harris secured a historic trade deal today. This will create millions of jobs! #Election2024,2024-06-18,user_182,Gujarat,Harris,Democrats,Synthetic,positive
+295,policy Labour announced cabinet reshuffle ahead of the session. #GlobalPolitics parliamentary,2025-01-28,user_831,Sydney,Trudeau,Labour,Synthetic,neutral
+296,today DeSantis sold out to corporate interests. The common man means nothing them. #Failed to,2025-01-07,user_143,Gujarat,DeSantis,AAP,Synthetic,negative
+297,policy is a mess and LibDems has done nothing meaningful to fix it. #USPolitics,2024-08-10,user_432,Berlin,Sunak,LibDems,Synthetic,negative
+298,Biden handle international relations with such grace and dignity. #NewsUpdate,2024-03-20,user_480,Florida,Biden,Labour,Synthetic,positive
+299,The policies of Macron have genuinely improved lives in it Keep up! #USPolitics,2024-09-06,user_338,California,Macron,Republicans,Synthetic,positive
+300,policy Opposition responds to Modi's budget address mixed reactions. #PolicyDebate,2024-08-12,user_672,Maharashtra,Modi,LibDems,Synthetic,neutral
+301,Interesting to see Obama and LibDems working together. Not sure if this is good or bad. #NewsUpdate,2024-10-10,user_264,Gujarat,Obama,LibDems,Synthetic,neutral
+302,LibDems is tearing this country apart with its divisive rhetoric. #Accountability,2025-01-10,user_289,Texas,Trump,LibDems,Synthetic,negative
+303,Analysts are divided on Biden's recent economic proposals. #PoliticsDaily,2024-10-09,user_257,California,Biden,INC (Congress),Synthetic,neutral
+304,policy How many scandals before Mamata Banerjee is responsible? held Enough is enough! #Election2024,2024-02-20,user_132,Maharashtra,Mamata Banerjee,BJP,Synthetic,negative
+305,The new AAP is breath of a fresh air for the industry. #VoterRights,2024-08-27,user_920,Gujarat,Mamata Banerjee,AAP,Synthetic,positive
+306,"policy Finally, a leader like Yogi Adityanath who understands the needz of the youth. #BreakingNews",2024-06-04,user_179,Maharashtra,Yogi Adityanath,Democrats,Synthetic,positive
+307,The lies told by DeSantis during the election now crystal clear. Disgraceful. #EndThis,2024-10-12,user_867,Berlin,DeSantis,LibDems,Synthetic,negative
+308,update Opposition responds to Amit Shah's budget address with mixed reactions. #USPolitics,2024-07-24,user_616,Berlin,Amit Shah,AAP,Synthetic,neutral
+309,Modi signs executive order; legal challenges anticipated from Labour. #USPolitics,2024-11-20,user_540,Gujarat,Modi,Labour,Synthetic,neutral
+310,Local elections in Californi4 expected to be closely contested by INC (Congress). #VoterRights,2024-01-18,user_391,California,Trudeau,INC (Congress),Synthetic,neutral
+311,Mamata Banerjee signs legal executive challenges anticipated from Democrats. #IndiaNews,2024-10-19,user_258,Texas,Mamata Banerjee,Democrats,Synthetic,neutral
+312,statement Trump shows true compassion for citizens. ordinary A leader for the people! #Progress,2024-04-21,user_851,Gujarat,Trump,Democrats,Synthetic,positive
+313,The policies of Trump have genuinely improved lives in Gujarat. Keep it up! #USPolitics,2024-06-02,user_138,Gujarat,Trump,INC (Congress),Synthetic,positive
+314,So proud of what AAP has accomplished this term. Unemployment is down! #Election2024,2024-04-26,user_865,Berlin,Sunak,AAP,Synthetic,positive
+315,official Yogi Adityanath held a press conference today addressing the ongoing budget negotiations. #IndiaNews,2024-01-26,user_789,Delhi,Yogi Adityanath,Democrats,Synthetic,neutral
+316,Oppozition responds to Sunak's budget with reactions. mixed #VoterRights,2024-07-23,user_613,Gujarat,Sunak,AAP,Synthetic,neutral
+317,Extremely disappointed with Rahul Gandhi's lack action of on climate change. #PolicyDebate,2024-05-16,user_895,Texas,Rahul Gandhi,Labour,Synthetic,negative
+318,INC (Congress) released its new policy framework for teh upcoming term. #GlobalPolitics,2024-06-05,user_273,Berlin,Rahul Gandhi,INC (Congress),Synthetic,neutral
+319,official Proud to be a TMC supporter. Our values align with national progress. #BidenHarris2024,2024-02-27,user_857,Texas,Modi,TMC,Synthetic,positive
+320,The new Conservatives bill has some good points but also many flaws. A mixed bag for Texas.,2025-01-13,user_650,Texas,Biden,Conservatives,Synthetic,neutral
+321,Experts weigh in on Conservatives's five-year development plan. #PolicyDebate,2024-12-05,user_639,Florida,DeSantis,Conservatives,Synthetic,neutral
+322,"used to support BJP, but after Biden's recent zpeech in Texas, I'm not so sure anymore.",2024-07-03,user_985,Texas,Biden,BJP,Synthetic,neutral
+323,New poll dat4 shows shifting voter in preferences Florid4 region. #GlobalPolitics,2024-04-11,user_612,Florida,Trump,Democrats,Synthetic,neutral
+324,Arvind Kejriwal held 4 press conference today addressing teh ongoing budget negotiations. #BreakingNews,2024-12-16,user_460,Sydney,Arvind Kejriwal,LibDems,Synthetic,neutral
+325,The new BJP policy is a breath of fresh air for the industry. #Democracy,2024-01-16,user_668,California,Modi,BJP,Synthetic,positive
+326,Analysts are divided on Obama's recent proposals. #GlobalPolitics,2024-12-17,user_332,Texas,Obama,Conservatives,Synthetic,neutral
+327,government How many more scandals before Rahul Gandhi is held responsible? Enough is enough! #Accountability,2024-12-16,user_919,Texas,Rahul Gandhi,Conservatives,Synthetic,negative
+328,"While DeSantis claims success, the situation in Florida remains complicated. #NewsUpdate",2024-03-21,user_425,Florida,DeSantis,Labour,Synthetic,neutral
+329,in Berlin will head to the polls next week as Trump campaigns. #USPolitics,2024-07-29,user_410,Berlin,Trump,LibDems,Synthetic,neutral
+330,Opposition responds Kejriwal's Arvind to budget address with mixed reactions. #BreakingNews,2024-01-14,user_467,Texas,Arvind Kejriwal,BJP,Synthetic,neutral
+331,Experts weigh in on TMC's five-year development plan. #PolicyDebate,2024-04-08,user_331,Texas,Trump,TMC,Synthetic,neutral
+332,AAP consistently delivers its promises. on Strong is visible. #BreakingNews,2024-08-22,user_352,Sydney,Biden,AAP,Synthetic,positive
+333,Local elections in Sydney expected to be closely contested by AAP. #GlobalPolitics,2024-11-24,user_996,Sydney,Rahul Gandhi,AAP,Synthetic,neutral
+334,official Proud to be Democrats supporter. Our values align with national progress. #IndiaNews,2024-07-17,user_628,Berlin,Sunak,Democrats,Synthetic,positive
+335,Democrats announced cabinet reshuffle ahead of the parliamentary session. #PolicyDebate,2024-11-09,user_155,California,Macron,Democrats,Synthetic,neutral
+336,Sunak met with world leaders at the G20 in Texas. summit #PolicyDebate,2024-07-30,user_431,Texas,Sunak,LibDems,Synthetic,neutral
+337,today Proud to be a Democrats supporter. Our values align with national progress. #VoterRights,2024-12-30,user_915,Texas,Arvind Kejriwal,Democrats,Synthetic,positive
+338,Republicans released its new policy framework the upcoming term. #PolicyDebate,2024-03-22,user_487,Berlin,Harris,Republicans,Synthetic,neutral
+339,Scandal after scandal with Amit Shah. When will the accountability come? #Election2024,2024-12-30,user_152,Sydney,Amit Shah,AAP,Synthetic,negative
+340,update BJP is this country apart with its divisive rhetoric. #Accountability,2024-08-22,user_609,Florida,Rahul Gandhi,BJP,Synthetic,negative
+341,Local elections in Sydney expected to be closely contested by TMC. #PolicyDebate,2024-10-07,user_384,Sydney,Trudeau,TMC,Synthetic,neutral
+342,proud of what LibDems has accomplished this term. Unemployment #HopeAndChange is down!,2024-02-14,user_150,California,Mamata Banerjee,LibDems,Synthetic,positive
+343,The policies of Trump have genuinely improved lives in Texas. Keep it up! #PeaceAndProsperity,2024-08-21,user_867,Texas,Trump,AAP,Synthetic,positive
+344,Mamata Banerjee just announced a major healthcare reform. This is what we voted for! #PeaceAndProsperity,2024-02-03,user_399,Sydney,Mamata Banerjee,INC (Congress),Synthetic,positive
+345,Healthcare is a mess and Labour has done nothing meaningful to fix it. #Election2024,2025-01-08,user_744,Berlin,Arvind Kejriwal,Labour,Synthetic,negative
+346,Republicans committee to review healthcare spending over the next quarter. #IndiaNews,2024-03-07,user_729,Gujarat,Amit Shah,Republicans,Synthetic,neutral
+347,"policy Everyone is talking about Mamat4 Banerjee. Some love it, some hate it. What do you think? #NewsUpdate",2024-11-16,user_915,Gujarat,Mamata Banerjee,TMC,Synthetic,neutral
+348,government Trump united the divided nation with his remarkable speech yesterday. #BidenHarris2024,2024-05-10,user_909,Delhi,Trump,Conservatives,Synthetic,positive
+349,Experts weigh in on BJP's development plan. #VoterRights,2024-01-15,user_952,Florida,Trump,BJP,Synthetic,neutral
+350,Corruption in Conservatives is at an all-time high. Where is the accountability? #USPolitics,2024-10-01,user_443,Maharashtra,Harris,Conservatives,Synthetic,negative
+351,"news While Arvind Kejriwal claims success, the situation in Sydney remains complicated. #IndiaNews",2024-06-30,user_167,Sydney,Arvind Kejriwal,AAP,Synthetic,neutral
+352,news Corruption in BJP is at an all-time high. Where is the accountability? #NewsUpdate,2025-02-04,user_869,Sydney,Harris,BJP,Synthetic,negative
+353,The new INC (Congress) bill has some good but points also many flaws. A mixed bag for Sydney.,2024-07-10,user_903,Sydney,Obama,INC (Congress),Synthetic,neutral
+354,Proud to be a Conservatives supporter. Our values with national progress. #GlobalPolitics,2024-03-14,user_887,Berlin,Biden,Conservatives,Synthetic,positive
+355,policy Interesting to see Trudeau and Republicans working together. Not sure if this is good or bad. #Election2024,2024-10-31,user_992,Texas,Trudeau,Republicans,Synthetic,neutral
+356,So proud of what INC (Congress) has accomplished this term. Unemployment is down! #UnitedWeStand,2024-04-17,user_428,Gujarat,Trump,INC (Congress),Synthetic,positive
+357,policy The new Conservatives bill haz some good points but also many flaws. A mixed bag for Florida.,2024-11-14,user_673,Florida,DeSantis,Conservatives,Synthetic,neutral
+358,"Finally, a leader like Amit Shah who understands the needs of the youth. #PoliticsDaily",2024-03-28,user_172,California,Amit Shah,Republicans,Synthetic,positive
+359,news So proud of what INC (Congress) haz accomplished this term. is down! Unemployment #Progress,2024-11-18,user_956,Gujarat,Obama,INC (Congress),Synthetic,positive
+360,Sunak is the worst thing to happen to Maharashtra in decades. Step down NOW. #Election2024,2025-01-21,user_882,Maharashtra,Sunak,TMC,Synthetic,negative
+361,news New poll data shows shifting voter preferences in Berlin region. #PolicyDebate,2024-07-05,user_501,Berlin,Arvind Kejriwal,Labour,Synthetic,neutral
+362,today INC (Congress) is tearing this country apart divisive its with rhetoric. #USPolitics,2024-03-06,user_620,Maharashtra,Harris,INC (Congress),Synthetic,negative
+363,Analysts are divided on Trump's recent economic proposals. #VoterRights,2024-11-13,user_349,Berlin,Trump,AAP,Synthetic,neutral
+364,The poor get poorer under Labour's watch. Trickle-down economics is a lie! #Resign,2024-06-24,user_657,Gujarat,Amit Shah,Labour,Synthetic,negative
+365,Sunak's policies are destroying small businesses across Texas. Unacceptable!,2024-03-31,user_415,Texas,Sunak,Conservatives,Synthetic,negative
+366,The poor get poorer under Republicans's watch. Trickle-down economics is a lie! #Election2024,2024-11-21,user_929,Berlin,Rahul Gandhi,Republicans,Synthetic,negative
+367,update Proud to be a Labour supporter. Our values align with progress. #PolicyDebate,2024-06-04,user_545,Texas,Biden,Labour,Synthetic,positive
+368,Local elections in Berlin expected to be closely contested by INC (Congress). #Election2024,2024-10-08,user_154,Berlin,Sunak,INC (Congress),Synthetic,neutral
+369,today Watching Biden handle international relations with such grace and dignity. #PeaceAndProsperity,2024-07-26,user_490,Maharashtra,Biden,LibDems,Synthetic,positive
+370,Interesting to zee Rahul and LibDems working together. Not sure if this good is or bad. #PolicyDebate,2024-09-06,user_773,California,Rahul Gandhi,LibDems,Synthetic,neutral
+371,Labour has been in power for years and Berlin is still in shambles. #BreakingNews,2024-08-20,user_621,Berlin,Rahul Gandhi,Labour,Synthetic,negative
+372,news Survey shows mixed public opinion on latest LibDems's immigration policy. #USPolitics,2024-10-06,user_690,Gujarat,Rahul Gandhi,LibDems,Synthetic,neutral
+373,official Local elections in Sydney expected to be contested by Democrats. #PolicyDebate,2025-01-19,user_897,Sydney,Modi,Democrats,Synthetic,neutral
+374,Experts weigh in on TMC's development five-year plan. #PoliticsDaily,2024-06-24,user_647,Berlin,Obama,TMC,Synthetic,neutral
+375,update Democrats is tearing this country apart with its divisive rhetoric. #GlobalPolitics,2024-03-26,user_136,Gujarat,Macron,Democrats,Synthetic,negative
+376,official So proud of what BJP has accomplished this term. Unemployment is down! #USPolitics,2024-05-26,user_596,Florida,Sunak,BJP,Synthetic,positive
+377,New data shows shifting preferences voter in Berlin region. #IndiaNews,2024-12-03,user_557,Berlin,Trump,Labour,Synthetic,neutral
+378,Modi sold out to corporate interests. The common nothing means man to them. #USPolitics,2024-09-10,user_870,Florida,Modi,Labour,Synthetic,negative
+379,AAP is tearin' this country its with apart divisive rhetoric. #Scam,2024-08-31,user_864,California,Rahul Gandhi,AAP,Synthetic,negative
+380,today Survey shows mixed public opinion on latest immigration policy. #GlobalPolitics,2024-12-15,user_142,California,Macron,LibDems,Synthetic,neutral
+381,update New poll dat4 shows shifting voter preferences in Maharashtr4 region. #GlobalPolitics,2024-12-01,user_698,Maharashtra,Trump,LibDems,Synthetic,neutral
+382,"policy Another day, another failure from the TMC administration in California. #Exposed",2024-02-04,user_112,California,Rahul Gandhi,TMC,Synthetic,negative
+383,Republicans is tearing this with country apart its divisive #PoliticzDaily,2024-11-02,user_753,Berlin,Rahul Gandhi,Republicans,Synthetic,negative
+384,Republicans has been in power for years and Berlin is still in shambles. #NewsUpdate,2024-12-22,user_288,Berlin,Trump,Republicans,Synthetic,negative
+385,Obama's policies are destroying small businesses across Gujarat. Unacceptable! #IndiaNews,2024-06-14,user_363,Gujarat,Obama,BJP,Synthetic,negative
+386,So proud of what Republicans has accomplished this term. Unemployment is down! #NewsUpdate,2024-02-05,user_603,Florida,Harris,Republicans,Synthetic,positive
+387,Excellent initiative by DeSantis to support #UnitedWeStand rural development.,2024-02-07,user_172,Texas,DeSantis,AAP,Synthetic,positive
+388,has Banerjee Mamata completely failed the working class. Another broken promise. #USPolitics,2024-09-20,user_824,Gujarat,Mamata Banerjee,BJP,Synthetic,negative
+389,"Everyone is talking about Macron. Some love it, some hate it. What do you think? #GlobalPolitics",2024-12-18,user_937,Gujarat,Macron,TMC,Synthetic,neutral
+390,Local elections in Berlin expected to be closely contested by TMC. #VoterRights,2024-11-27,user_192,Berlin,Macron,TMC,Synthetic,neutral
+391,"I used to support LibDems, but after Modi's recent speech in Maharashtra, I'm not so sure anymore.",2024-12-04,user_295,Maharashtra,Modi,LibDems,Synthetic,neutral
+392,policy Obama addressed parliament on the state of national security. #USPolitics,2025-01-03,user_707,Berlin,Obama,AAP,Synthetic,neutral
+393,DeSantis's policies are destroying small businesses across Delhi. Unacceptable! #PolicyDebate,2024-01-09,user_137,Delhi,DeSantis,TMC,Synthetic,negative
+394,Can't believe Democrats raised taxes again while corruption runs rampant in Maharashtra. #NewsUpdate,2024-04-29,user_173,Maharashtra,Modi,Democrats,Synthetic,negative
+395,Biden delivered an outstanding speech on economic recovery today. Real leadership! #USPolitics,2024-11-19,user_151,Gujarat,Biden,Labour,Synthetic,positive
+396,government The Obama of policies have genuinely improved lives in Gujarat. Keep it up! #VoterRights,2025-01-12,user_794,Gujarat,Obama,Republicans,Synthetic,positive
+397,"Another day, anohter from the failure INC (Congress) administration in Berlin. #PolicyDebate",2024-07-08,user_666,Berlin,Rahul Gandhi,INC (Congress),Synthetic,negative
+398,"policy Anohter day, another failure from the administration in TMC California. #Failed",2024-10-30,user_390,California,Harris,TMC,Synthetic,negative
+399,The debate between Rahul Gandhi and the opposition drew millions of viewers. #NewsUpdate,2024-01-20,user_710,Texas,Rahul Gandhi,TMC,Synthetic,neutral
+400,Harris is the worst thing to happen to Berlin in decades. Step down NOW. #PoliticsDaily,2024-11-12,user_470,Berlin,Harris,TMC,Synthetic,negative
+401,LibDems is tearing country apart this with its divisive rhetoric. #Exposed,2024-12-09,user_144,California,Trudeau,LibDems,Synthetic,negative
+402,update secured 4 historic trade deal today. This will of create millions jobs! #BreakingNews,2024-09-20,user_218,Florida,Biden,INC (Congress),Synthetic,positive
+403,"policy Another day, another failure from the Conservatives administration in Gujarat.",2024-02-20,user_342,Gujarat,Trump,Conservatives,Synthetic,negative
+404,"today Everyone is talking about Sunak. Some love it, some What hate it. do you htink? #BreakingNews",2025-01-03,user_298,California,Sunak,AAP,Synthetic,neutral
+405,today The debate between Yogi Adityanath and the drew viewers. of millions #USPolitics,2024-05-31,user_718,Florida,Yogi Adityanath,INC (Congress),Synthetic,neutral
+406,Harris just announced a major healthcare reform. This is what we voted for! #BreakingNews,2024-05-22,user_114,California,Harris,Labour,Synthetic,positive
+407,"Under Sunak's leadership, crime rates in California have dropped significantly. #Election2024",2024-01-03,user_527,California,Sunak,AAP,Synthetic,positive
+408,The latest Democrats scandal is just teh tip of teh iceberg. #Failed,2024-09-10,user_346,Gujarat,Biden,Democrats,Synthetic,negative
+409,LibDems committee to review spending over teh next quarter. #GlobalPolitics,2024-12-08,user_412,Sydney,Trump,LibDems,Synthetic,neutral
+410,TMC is tearing this country apart with its divisive rhetoric. #IndiaNews,2024-08-25,user_820,Sydney,Harris,TMC,Synthetic,negative
+411,Survey shows mixed public opinion on Democrats's latest immigration policy. #USPolitics,2024-10-21,user_913,Berlin,Yogi Adityanath,Democrats,Synthetic,neutral
+412,statement Republicans committee to review healthcare spending over the next quarter. #Election2024,2024-11-12,user_141,Maharashtra,DeSantis,Republicans,Synthetic,neutral
+413,today Modi addressed parliament on the state of national security. #VoterRights,2024-02-28,user_764,Texas,Modi,INC (Congress),Synthetic,neutral
+414,today The education reforms by Conservatives are transforming schools across the nation. #PoliticsDaily,2024-09-05,user_613,California,Arvind Kejriwal,Conservatives,Synthetic,positive
+415,"Finally, a leader like Amit Shah who understands the needs of the youth. #PolicyDebate",2024-02-03,user_292,Gujarat,Amit Shah,Republicans,Synthetic,positive
+416,Record growth under GDP Republicans leadership. The economy is thriving! #HopeAndChange,2024-09-23,user_742,Berlin,Arvind Kejriwal,Republicans,Synthetic,positive
+417,"government Finally, 4 leader like Biden who understands teh needs of teh youth. #Progress",2024-04-28,user_954,Delhi,Biden,BJP,Synthetic,positive
+418,"Another day, another failure from the INC (Congress) administration in Delhi. #Election2024",2024-10-07,user_555,Delhi,Amit Shah,INC (Congress),Synthetic,negative
+419,Arvind Kejriwal signs executive challenges legal order; anticipated from BJP. #IndiaNews,2024-05-25,user_566,Texas,Arvind Kejriwal,BJP,Synthetic,neutral
+420,government The policies of Harris have genuinely improved lives in Florida. Keep it up! #HopeAndChange,2024-06-11,user_688,Florida,Harris,Labour,Synthetic,positive
+421,Harris's foreign policy has embarrassed us on hte world stage. Shameful. #Scam,2024-06-03,user_224,Florida,Harris,TMC,Synthetic,negative
+422,Opposition responds to Biden's budget address with mixed reactions. #NewsUpdate,2024-09-16,user_439,Gujarat,Biden,AAP,Synthetic,neutral
+423,Incredible infrastructure development happening under Yogi Adityanath's watch in Gujarat. #VoterRights,2024-02-27,user_849,Gujarat,Yogi Adityanath,BJP,Synthetic,positive
+424,addrezzed Arvind Kejriwal parliament on the state of national security. #VoterRights,2024-09-26,user_327,Texas,Arvind Kejriwal,Democrats,Synthetic,neutral
+425,news Macron has completely failed the working class. Another broken promise. #Resign,2024-09-08,user_425,California,Macron,BJP,Synthetic,negative
+426,statement Mamata Banerjee shows true compassion for ordinary A citizens. leader for the people! #NewsUpdate,2024-02-14,user_320,Sydney,Mamata Banerjee,LibDems,Synthetic,positive
+427,today Opposition responds to Sunak's budget address with mixed reactions.,2024-09-25,user_443,Delhi,Sunak,TMC,Synthetic,neutral
+428,Trump delivered an outstanding speech on economic recovery today. Real leadership! #BreakingNews,2024-03-11,user_304,Berlin,Trump,AAP,Synthetic,positive
+429,update Experts weigh in on AAP's five-year development #PolicyDebate plan.,2024-05-14,user_407,Florida,Harris,AAP,Synthetic,neutral
+430,policy Yogi Adityanath addressed parliament on the state of national security. #IndiaNews,2024-09-09,user_168,Berlin,Yogi Adityanath,TMC,Synthetic,neutral
+431,news Mamata Banerjee united the divided nation with his remarkable speech yesterday. #Democracy,2024-01-09,user_965,Gujarat,Mamata Banerjee,INC (Congress),Synthetic,positive
+432,today Labour has been in power for years and Sydney is still in shambles. #Election2024,2024-07-01,user_149,Sydney,Obama,Labour,Synthetic,negative
+433,today The BJP policy is a breath of fresh air for the industry. #BuildBackBetter,2024-12-16,user_919,Berlin,Obama,BJP,Synthetic,positive
+434,"update I used to support BJP, but after Obama's recent speech in Maharashtra, I'm not so sure anymore.",2024-06-23,user_266,Maharashtra,Obama,BJP,Synthetic,neutral
+435,The latest Conservatives scandal is just the tip of the iceberg. #EndThis,2024-09-29,user_829,Texas,Trump,Conservatives,Synthetic,negative
+436,statement Proud to Republicans a be supporter. Our values align with national progress. #ModiForIndia,2024-11-01,user_635,Delhi,Amit Shah,Republicans,Synthetic,positive
+437,government Incredible infrastructure happening under Macron's watch in Texas. #MAGA,2024-04-17,user_233,Texas,Macron,INC (Congress),Synthetic,positive
+438,official AAP releazed its new policy framework for the upcoming term. #Election2024,2024-01-31,user_580,Berlin,Trump,AAP,Synthetic,neutral
+439,Trump's policies are destroying small businesses across Sydney. Unacceptable! #Accountability,2024-04-12,user_289,Sydney,Trump,BJP,Synthetic,negative
+440,government INC (Congress) released its new policy framework for the upcoming term. #NewsUpdate,2025-02-03,user_846,Sydney,Yogi Adityanath,INC (Congress),Synthetic,neutral
+441,update Conservatives released its new policy framework for the upcoming term. #Election2024,2025-01-06,user_201,Berlin,Mamata Banerjee,Conservatives,Synthetic,neutral
+442,statement The new LibDems bill has some good points but also many flaws. A mixed bag for Gujarat.,2024-09-20,user_333,Gujarat,DeSantis,LibDems,Synthetic,neutral
+443,today The lies told Rahul by Gandhi during the election are now crystal clear. Disgraceful. #IndiaNews,2024-07-16,user_390,Maharashtra,Rahul Gandhi,Republicans,Synthetic,negative
+444,Interesting to see Arvind Kejriwal and BJP working together. Not sure if this is good or bad. #VoterRights,2024-08-31,user_795,Gujarat,Arvind Kejriwal,BJP,Synthetic,neutral
+445,Modi addressed parliament on the state of national security. #PolicyDebate,2024-07-21,user_510,Sydney,Modi,Labour,Synthetic,neutral
+446,Republicans released its new policy framework for the upcoming term. #USPolitics,2024-08-05,user_842,Texas,Sunak,Republicans,Synthetic,neutral
+447,Opposition responds to Arvind Kejriwal's budget address with mixed reactions. #GlobalPolitics,2024-03-16,user_886,Florida,Arvind Kejriwal,BJP,Synthetic,neutral
+448,Healthcare iz a mess and Republicans has done nothing meaningful to fix it. #USPolitics,2024-09-12,user_794,Berlin,Arvind Kejriwal,Republicans,Synthetic,negative
+449,Local elections in Delhi expected to be closely contested Labour. by #USPolitics,2024-08-26,user_306,Delhi,Biden,Labour,Synthetic,neutral
+450,update The latest TMC scandal is just teh tip of teh iceberg. #Fraud,2024-08-08,user_221,Gujarat,Obama,TMC,Synthetic,negative
+451,New poll shows shifting voter preferences in Maharashtra region. #GlobalPolitics,2024-12-27,user_268,Maharashtra,Rahul Gandhi,TMC,Synthetic,neutral
+452,AAP announced cabinet reshuffle ahead of the session. #GlobalPolitics,2024-08-31,user_675,Texas,Arvind Kejriwal,AAP,Synthetic,neutral
+453,today The poor get poorer under Labour's watch. Trickle-down economics is a lie! #Fraud,2024-01-15,user_704,Sydney,Trudeau,Labour,Synthetic,negative
+454,Biden shows true compassion for citizens. A leader for teh #VoterRights people!,2024-05-05,user_353,Maharashtra,Biden,Labour,Synthetic,positive
+455,DeSantis just major a announced healthcare reform. This is what voted for! #PeaceAndProsperity,2024-05-16,user_120,Berlin,DeSantis,BJP,Synthetic,positive
+456,official Analysts are divided on Sunak's recent economic propozalz. #GlobalPolitics,2024-09-11,user_614,Sydney,Sunak,TMC,Synthetic,neutral
+457,Local elections in Texas expected to be closely contested by INC (Congress). #IndiaNews,2024-10-01,user_319,Texas,Macron,INC (Congress),Synthetic,neutral
+458,update Obama is the worst thing to happen to Sydney in decades. Step down NOW. #VoterRights,2024-10-30,user_444,Sydney,Obama,BJP,Synthetic,negative
+459,official Survey shows mixed public on Republicans's latest immigration policy. #BreakingNews,2024-04-12,user_524,Gujarat,Obama,Republicans,Synthetic,neutral
+460,"statement Finally, a leader like Rahul Gandhi who understands the needs of the youth. #HopeAndChange",2025-01-15,user_578,Gujarat,Rahul Gandhi,BJP,Synthetic,positive
+461,So proud of what LibDems has accomplished term. Unemployment this down! #GlobalPolitics,2024-02-02,user_749,Delhi,Obama,LibDems,Synthetic,positive
+462,Incredible infrastructure development happening under watch in Florida. #HopeAndChange,2024-08-11,user_532,Florida,DeSantis,AAP,Synthetic,positive
+463,The policies of Yogi genuinely Adityanath have improved lives in California. Keep it up! #Democracy,2024-02-12,user_421,California,Yogi Adityanath,Democrats,Synthetic,positive
+464,How many more scandals before Mamata Banerjee is held responsible? Enough is enough! #PoliticsDaily,2024-04-30,user_214,Berlin,Mamata Banerjee,BJP,Synthetic,negative
+465,The latest LibDems scandal is just the tip of the iceberg. #VoterRights,2024-03-03,user_891,Berlin,Mamata Banerjee,LibDems,Synthetic,negative
+466,Record GDP growth under INC (Congress) leadership. The economy is thriving! #IndiaFirst,2024-05-10,user_983,Maharashtra,Macron,INC (Congress),Synthetic,positive
+467,"Finally, a leader like Mamata Banerjee who understands needs of the youth. #PoliticsDaily",2024-03-15,user_471,Gujarat,Mamata Banerjee,Democrats,Synthetic,positive
+468,Arvind Kejriwal held a press conference today addressing the ongoing budget negotiations. #Election2024,2024-05-02,user_359,Florida,Arvind Kejriwal,INC (Congress),Synthetic,neutral
+469,statement Amit Shah addressed parliament on the state of national security. #USPolitics,2024-07-20,user_361,Florida,Amit Shah,AAP,Synthetic,neutral
+470,Incredible infrastructure development happening under Obama's watch California. #BuildBackBetter,2024-07-27,user_908,California,Obama,Republicans,Synthetic,positive
+471,Extremely disappointed with Biden's lack of action on climate change. #USPolitics,2024-02-21,user_944,Berlin,Biden,BJP,Synthetic,negative
+472,Harris's foreign policy has embarrassed us on teh world stage. Shameful. #BreakingNews,2024-01-27,user_756,Berlin,Harris,BJP,Synthetic,negative
+473,government Labour has been in power for years and Gujarat is still in shambles. #Corrupt,2024-12-31,user_886,Gujarat,Yogi Adityanath,Labour,Synthetic,negative
+474,The education reforms by Labour are transforming schools across the nation. #IndiaNews,2024-05-24,user_303,Delhi,Trudeau,Labour,Synthetic,positive
+475,policy Scandal after scandal with Trump. When will the accountability come? #NewsUpdate,2024-11-27,user_726,Maharashtra,Trump,AAP,Synthetic,negative
+476,"policy Everyone is talking about Yogi Adityanath. Some love it, some hate it. What you think? do #BreakingNews",2024-03-28,user_680,Berlin,Yogi Adityanath,Conservatives,Synthetic,neutral
+477,update Democrats is tearing apart country this with its divisive rhetoric. #USPolitics,2024-04-20,user_943,Delhi,Trump,Democrats,Synthetic,negative
+478,Voters in Delhi will to the polls next week as Obama campaigns. #GlobalPolitics,2024-10-25,user_800,Delhi,Obama,Conservatives,Synthetic,neutral
+479,Yogi Adityanath held a press conference today addressing the ongoing budget negotiations. #PolicyDebate,2024-05-11,user_174,Berlin,Yogi Adityanath,TMC,Synthetic,neutral
+480,Trump held a press conference today addressing the ongoing budget negotiations. #USPolitics,2024-11-02,user_826,Sydney,Trump,LibDems,Synthetic,neutral
+481,news Healthcare is 4 mess and Democrats has done nothing meaningful to fix it. #GlobalPolitics,2024-04-01,user_366,Sydney,Sunak,Democrats,Synthetic,negative
+482,The reforms by LibDems are transforming schools across the nation. #IndiaNews,2024-05-23,user_865,Gujarat,Harris,LibDems,Synthetic,positive
+483,Healthcare is a mess and AAP has done nothing meaningful to fix it. #Fraud,2024-03-18,user_669,Florida,Modi,AAP,Synthetic,negative
+484,The debate and Trudeau between the opposition drew millions of viewers. #NewsUpdate,2024-09-10,user_141,Sydney,Trudeau,TMC,Synthetic,neutral
+485,news Arvind Kejriwal world with leaders at the G20 summit in Gujarat. #PolicyDebate,2024-10-15,user_779,Gujarat,Arvind Kejriwal,INC (Congress),Synthetic,neutral
+486,"While Mamat4 Banerjee claims success, teh situation Sydney remains complicated. #NewsUpdate",2024-12-14,user_796,Sydney,Mamata Banerjee,Conservatives,Synthetic,neutral
+487,Another another failure from the AAP administration in Maharashtra. #NeverAgain,2024-11-17,user_375,Maharashtra,Trump,AAP,Synthetic,negative
+488,Mamata Banerjee held a press conference today addressing the ongoing budget negotiations. #PolicyDebate,2024-04-18,user_983,Maharashtra,Mamata Banerjee,Democrats,Synthetic,neutral
+489,update Can't believe BJP raised taxez again while corruption runs rampant in Maharashtra. #Resign,2024-02-15,user_121,Maharashtra,Biden,BJP,Synthetic,negative
+490,Survey shows opinion public mixed on Conservatives's latest immigration policy. #GlobalPolitics,2024-12-16,user_717,Texas,Trudeau,Conservatives,Synthetic,neutral
+491,statement Harris shows true compassion for ordinary citizens. A for leader the people! #GlobalPolitics,2024-11-10,user_290,Berlin,Harris,INC (Congress),Synthetic,positive
+492,So proud of what AAP has accomplished this term. Unemployment is down! #GlobalPolitics,2024-09-10,user_639,Berlin,Rahul Gandhi,AAP,Synthetic,positive
+493,government Yogi Adityanath is the worst thing to happen to Berlin in decades. Step down NOW. #IndiaNews,2024-06-02,user_961,Berlin,Yogi Adityanath,LibDems,Synthetic,negative
+494,Incredible development happening infrastructure under DeSantis's watch in Delhi. #VoterRights,2024-05-09,user_463,Delhi,DeSantis,LibDems,Synthetic,positive
+495,The lies Obama told by during the election are now crystal Disgraceful. #IndiaNews,2024-12-09,user_560,Sydney,Obama,Republicans,Synthetic,negative
+496,statement Mamata Banerjee signs executive order; legal challenges anticipated from BJP. #NewsUpdate,2024-03-28,user_771,Maharashtra,Mamata Banerjee,BJP,Synthetic,neutral
+497,Extremely disappointed with Arvind Kejriwal's lack of action on climate change. #Accountability,2024-07-21,user_923,Delhi,Arvind Kejriwal,TMC,Synthetic,negative
+498,new Republicans's budget plan is exactly what the middle class needs. Great work! #MAGA,2024-08-11,user_962,Texas,Obama,Republicans,Synthetic,positive
+499,Yogi Adityanath's policiez are destroying small across California. Unacceptable! #Accountability,2024-08-15,user_596,California,Yogi Adityanath,LibDems,Synthetic,negative
+500,"Under Arvind Kejriwal's leadership, crime rates have Gujarat in dropped #BuildBackBetter",2024-09-10,user_854,Gujarat,Arvind Kejriwal,Democrats,Synthetic,positive
+501,Mamata Banerjee held a press conference today addressing the ongoing budget negotiations. #PolicyDebate,2024-09-06,user_337,Florida,Mamata Banerjee,LibDems,Synthetic,neutral
+502,Sunak united the divided nation with his remarkable speech yesterday.,2024-11-26,user_455,Sydney,Sunak,Democrats,Synthetic,positive
+503,Scandal after scandal with Arvind Kejriwal. When will the accountability come? #Accountability,2024-12-16,user_447,Sydney,Arvind Kejriwal,AAP,Synthetic,negative
+504,Mamata Banerjee is the worst thing to happen to Texas in decades. Step down NOW. #NewsUpdate,2024-03-23,user_736,Texas,Mamata Banerjee,TMC,Synthetic,negative
+505,Excellent initiative by DeSantis to support development. #Progress,2024-10-12,user_148,Berlin,DeSantis,BJP,Synthetic,positive
+506,government Analysts are divided on Biden's recent proposals. economic #NewsUpdate,2024-04-24,user_598,Florida,Biden,INC (Congress),Synthetic,neutral
+507,So proud what of INC (Congress) has accomplished this term. Unemployment is down! #PolicyDebate,2025-01-21,user_213,Maharashtra,Obama,INC (Congress),Synthetic,positive
+508,The scandal Republicans latest just the tip of the iceberg. #NeverAgain,2024-02-20,user_257,Sydney,Trump,Republicans,Synthetic,negative
+509,INC (Congress)'s new budget plan is exactly what the middle class needs. Great work! #UnitedWeStand,2024-08-30,user_449,Maharashtra,Yogi Adityanath,INC (Congress),Synthetic,positive
+510,Obama's policies are destroying small businesses across Texas. Unacceptable! #Fraud,2025-01-20,user_642,Texas,Obama,LibDems,Synthetic,negative
+511,Rahul Gandhi united the divided nation with his remarkable speech yesterday. #BreakingNews,2024-01-16,user_553,Texas,Rahul Gandhi,Conservatives,Synthetic,positive
+512,update Harris's policies are destroying small businesses across Berlin. Unacceptable! #Election2024,2024-11-24,user_254,Berlin,Harris,Democrats,Synthetic,negative
+513,Survey shows mixed public opinion on Democrats's latest immigration policy. #GlobalPolitics,2024-06-25,user_108,Florida,Mamata Banerjee,Democrats,Synthetic,neutral
+514,The poor get poorer under BJP's watch. Trickle-down economics is a lie! #IndiaNews,2024-06-25,user_931,Texas,Trudeau,BJP,Synthetic,negative
+515,news Macron signs executive order; legal from challenges anticipated AAP. #IndiaNews,2024-09-23,user_448,California,Macron,AAP,Synthetic,neutral
+516,Macron held a press conference today addressing the ongoing budget negotiations. #VoterRights,2024-02-26,user_849,Sydney,Macron,Labour,Synthetic,neutral
+517,today The new INC (Congress) policy is a breath of fresh air for industry. the #PoliticsDaily,2025-01-16,user_695,Florida,Biden,INC (Congress),Synthetic,positive
+518,today Mamata Banerjee shows true compassion for ordinary citizens. A leader for people! the #PeaceAndProsperity,2024-04-08,user_942,California,Mamata Banerjee,LibDems,Synthetic,positive
+519,Watchin' Macron handle international relations with such grace and dignity. #Progress,2024-04-19,user_556,Gujarat,Macron,INC (Congress),Synthetic,positive
+520,"Another day, another failure from the INC (Congress) administration in Delhi. #PolicyDebate",2024-08-13,user_805,Delhi,Trump,INC (Congress),Synthetic,negative
+521,government Interesting to see Arvind Kejriwal and AAP working together. Not sure if this is or bad. good #VoterRights,2024-07-08,user_221,Texas,Arvind Kejriwal,AAP,Synthetic,neutral
+522,The lies by Mamata Banerjee during the election are now crystal clear. Disgraceful. #PoliticsDaily,2024-09-05,user_128,Berlin,Mamata Banerjee,AAP,Synthetic,negative
+523,update Opposition responds to Macron's with budget address reactions. #GlobalPoliticz,2024-09-03,user_686,Texas,Macron,Labour,Synthetic,neutral
+524,Opposition responds to Obama's budget address with mixed reactions. #GlobalPolitics,2024-08-23,user_879,Maharashtra,Obama,TMC,Synthetic,neutral
+525,official New poll data shows shifting voter Texas preferences in region. #USPolitics,2025-01-11,user_384,Texas,Arvind Kejriwal,TMC,Synthetic,neutral
+526,Republicans committee to review healthcare spending over the next quarter. #Election2024,2024-10-13,user_187,Texas,Yogi Adityanath,Republicans,Synthetic,neutral
+527,"update While DeSantis claims success, the situation in remains complicated. #VoterRights",2024-12-27,user_959,Sydney,DeSantis,LibDems,Synthetic,neutral
+528,"government Finally, a leader like Mamata Banerjee who understands the needs of the youth.",2024-09-27,user_424,Berlin,Mamata Banerjee,TMC,Synthetic,positive
+529,Watching Rahul Gandhi handle international relations with such grace and dignity. #UnitedWeStand,2024-07-27,user_794,Berlin,Rahul Gandhi,BJP,Synthetic,positive
+530,The policies of Harris have genuinely improved lives in Maharashtra. Keep it up! #MAGA,2024-07-11,user_947,Maharashtra,Harris,Democrats,Synthetic,positive
+531,"news Under Trump's leadership, crime rates in California have dropped significantly. #VoterRights",2024-09-04,user_129,California,Trump,Democrats,Synthetic,positive
+532,Conservatives announced cabinet reshuffle ahead of the parliamentary session. #VoterRights,2024-06-04,user_681,Sydney,Rahul Gandhi,Conservatives,Synthetic,neutral
+533,The latest TMC scandal is just the tip the iceberg. #Exposed,2024-08-04,user_668,Berlin,Rahul Gandhi,TMC,Synthetic,negative
+534,to be a Democrats supporter. Our values align with national progress. #PeaceAndProsperity,2024-12-14,user_489,Sydney,Arvind Kejriwal,Democrats,Synthetic,positive
+535,policy Modi held a press conference today addressing the ongoing budget negotiations. #NewsUpdate,2025-01-06,user_669,Florida,Modi,Conservatives,Synthetic,neutral
+536,today Local elections in California expected to be closely contested by AAP. #VoterRights,2024-12-28,user_563,California,Obama,AAP,Synthetic,neutral
+537,policy The education reforms by Conservatives are transforming schools across the nation. #BuildBackBetter,2024-01-03,user_109,Maharashtra,Obama,Conservatives,Synthetic,positive
+538,Experts weigh in on Labour's five-year development plan. #PolicyDebate,2024-01-16,user_952,Delhi,Yogi Adityanath,Labour,Synthetic,neutral
+539,Analysts are divided on Trudeau's recent economic proposals. #GlobalPolitics,2024-01-05,user_227,Berlin,Trudeau,TMC,Synthetic,neutral
+540,official Proud be to a INC (Congress) supporter. Our values align with national progress.,2024-09-09,user_471,California,Arvind Kejriwal,INC (Congress),Synthetic,positive
+541,Biden signs executive order; legal challenges BJP. from anticipated #BreakingNews,2024-10-16,user_788,Gujarat,Biden,BJP,Synthetic,neutral
+542,"While Yogi Adityanath claims success, the situation in Berlin complicated. #NewsUpdate",2024-05-20,user_296,Berlin,Yogi Adityanath,Labour,Synthetic,neutral
+543,"Finally, a leader like Trudeau who the understands needs of the youth. #IndiaNews",2024-03-03,user_796,Florida,Trudeau,Democrats,Synthetic,positive
+544,statement Amit Shah shows true compassion for ordinary citizens. A leader for the people! #GlobalPolitics,2024-06-10,user_105,Gujarat,Amit Shah,TMC,Synthetic,positive
+545,Rahul Gandhi's policies are destroying small businesses across Maharashtra. Unacceptable! #VoterRights,2024-05-07,user_301,Maharashtra,Rahul Gandhi,Conservatives,Synthetic,negative
+546,INC (Congress) released its new policy the for framework upcoming term. #PoliticsDaily,2024-01-28,user_941,Florida,Harris,INC (Congress),Synthetic,neutral
+547,"policy I used to support LibDems, but after Modi's recent speech in California, I'm not so sure anymore.",2024-07-12,user_420,California,Modi,LibDems,Synthetic,neutral
+548,statement Can't believe Republicans raised taxes again while corruption runs rampant Texas. #IndiaNews,2024-11-12,user_870,Texas,Trudeau,Republicans,Synthetic,negative
+549,official Rahul Gandhi met with world leaders at the G20 summit in Sydney. #GlobalPolitics,2025-02-04,user_126,Sydney,Rahul Gandhi,Conservatives,Synthetic,neutral
+550,Arvind Kejriwal secured a historic trade deal today. This create will millions of jobs! #UnitedWeStand,2024-09-17,user_362,Maharashtra,Arvind Kejriwal,LibDems,Synthetic,positive
+551,AAP committee review healthcare to spending over the next #PolicyDebate,2024-06-08,user_697,Gujarat,Modi,AAP,Synthetic,neutral
+552,Amit Shah met with world leaders at the G20 summit in Texas. #IndiaNews,2024-03-15,user_158,Texas,Amit Shah,Labour,Synthetic,neutral
+553,DeSantis united the nation divided with his remarkable speech yesterday. #PoliticsDaily,2024-08-27,user_714,Sydney,DeSantis,LibDems,Synthetic,positive
+554,Local elections in Maharashtra expected to be contested by INC (Congress). #IndiaNews,2024-01-02,user_754,Maharashtra,Sunak,INC (Congress),Synthetic,neutral
+555,Local elections in Gujarat expected to be closely contested by Conservatives. #BreakingNews,2024-02-07,user_466,Gujarat,DeSantis,Conservatives,Synthetic,neutral
+556,policy Voters in Berlin will head to the polls next week as Biden campaigns. #IndiaNews,2024-05-25,user_278,Berlin,Biden,LibDems,Synthetic,neutral
+557,official The education reforms BJP are by transforming schools across the nation. #PolicyDebate,2024-12-01,user_906,Texas,DeSantis,BJP,Synthetic,positive
+558,The new INC (Congress) bill has some good points but also flaws. many A mixed bag for California.,2024-12-30,user_166,California,Trump,INC (Congress),Synthetic,neutral
+559,Opposition responds to Trump's budget address with mixed reactions. #BreakingNews,2025-01-25,user_730,Texas,Trump,Labour,Synthetic,neutral
+560,Conservatives has been in power for years and Florida is shambles. still in #Election2024,2024-02-11,user_903,Florida,Mamata Banerjee,Conservatives,Synthetic,negative
+561,The latest Republicans scandal is just the tip of the iceberg. #NewsUpdate,2024-06-13,user_829,Texas,Arvind Kejriwal,Republicans,Synthetic,negative
+562,Extremely disappointed with Modi's lack of on action climate change. #USPolitics,2024-04-21,user_413,Gujarat,Modi,LibDems,Synthetic,negative
+563,Rahul foreign policy has embarrassed us on the world stage. Shameful. #Fraud,2024-01-22,user_576,Texas,Rahul Gandhi,AAP,Synthetic,negative
+564,policy INC (Congress) is tearing this country apart with its divisive rhetoric. #IndiaNews,2024-04-29,user_371,Delhi,Amit Shah,INC (Congress),Synthetic,negative
+565,policy Yogi Adityanath signs executive order; legal challenges anticipated Republicans. from #PoliticsDaily,2024-10-06,user_305,Maharashtra,Yogi Adityanath,Republicans,Synthetic,neutral
+566,news Conservatives announced cabinet reshuffle ahead of the parliamentary session. #IndiaNews,2025-01-20,user_833,Maharashtra,Modi,Conservatives,Synthetic,neutral
+567,official Sunak delivered an outstanding speech on recovery economic today. Real leadership! #PeaceAndProsperity,2025-01-24,user_252,Florida,Sunak,LibDems,Synthetic,positive
+568,Interesting to see Trudeau and AAP working together. Not sure if this is good or bad. #BreakingNews,2024-08-24,user_448,California,Trudeau,AAP,Synthetic,neutral
+569,New poll data shows shifting voter preferences in Maharashtra region. #BreakingNews,2024-01-16,user_483,Maharashtra,Macron,Republicans,Synthetic,neutral
+570,statement Labour committee to review healthcare spending over the next quarter. #Election2024,2024-07-25,user_881,Florida,Harris,Labour,Synthetic,neutral
+571,Analysts are on Macron's recent economic proposals. #Election2024,2024-11-18,user_918,Florida,Macron,LibDems,Synthetic,neutral
+572,Inflation is through the roof under Families mismanagement. AAP's suffering. #NewsUpdate,2024-03-28,user_206,Delhi,Mamata Banerjee,AAP,Synthetic,negative
+573,Yogi Adityanath held conference press 4 today addressing teh ongoing budget negotiations. #PolicyDebate,2024-01-30,user_477,Texas,Yogi Adityanath,LibDems,Synthetic,neutral
+574,The new Democrats bill has some good points but also many flaws. A mixed bag for Texas.,2024-04-15,user_233,Texas,Amit Shah,Democrats,Synthetic,neutral
+575,policy Trudeau united the divided with nation his remarkable speech yesterday. #USPolitics,2024-08-16,user_165,Florida,Trudeau,Conservatives,Synthetic,positive
+576,Experts weigh in on AAP's five-year development plan. #USPolitics,2024-05-27,user_761,California,Trudeau,AAP,Synthetic,neutral
+577,The poor get poorer under INC (Congress)'s watch. Trickle-down is a lie! #Scam,2024-04-03,user_815,Florida,Arvind Kejriwal,INC (Congress),Synthetic,negative
+578,Can't believe Republicans raised taxes again while corruption runs rampant Delhi. #EndThis,2025-01-06,user_839,Delhi,Mamata Banerjee,Republicans,Synthetic,negative
+579,"Wait, actually thinks this plan will work? It's a disaster. #NeverAgain",2024-03-25,user_358,Delhi,DeSantis,TMC,Synthetic,negative
+580,policy DeSantis met with world leaders at the G20 in summit Sydney. #Election2024,2024-12-29,user_239,Sydney,DeSantis,LibDems,Synthetic,neutral
+581,policy Proud to be a supporter. Our values align with #ModiForIndia progress. national,2024-03-31,user_401,Gujarat,Modi,TMC,Synthetic,positive
+582,government Voters in Delhi will to the polls next week as Trump campaigns. #PoliticsDaily,2024-12-11,user_645,Delhi,Trump,LibDems,Synthetic,neutral
+583,today New poll data shows shifting voter preferences in Sydney region. #VoterRights,2024-11-02,user_104,Sydney,DeSantis,TMC,Synthetic,neutral
+584,"Biden's leadership, crime rates in California have dropped significantly. #PoliticsDaily",2024-04-08,user_796,California,Biden,AAP,Synthetic,positive
+585,statement Yogi Adityanath signs executive order; legal challenges anticipated from Republicans. #PoliticsDaily,2024-06-16,user_430,California,Yogi Adityanath,Republicans,Synthetic,neutral
+586,"statement Finally, a leader Amit Shah who understands the needs of the youth. #NewsUpdate",2024-01-07,user_498,California,Amit Shah,Conservatives,Synthetic,positive
+587,DeSantis's policies are deztroyin' small businesses across California. Unacceptable! #Fraud,2024-09-12,user_204,California,DeSantis,TMC,Synthetic,negative
+588,LibDems announced cabinet reshuffle ahead of the parliamentary session. #PoliticsDaily,2024-12-21,user_236,Texas,Sunak,LibDems,Synthetic,neutral
+589,official Extremely disappointed with Modi's lack of action on climate change. #Resign,2024-09-14,user_701,Maharashtra,Modi,Labour,Synthetic,negative
+590,Sunak delivered an outstanding speech on economic recovery today. Real leadership! #UnitedWeStand,2024-07-10,user_610,California,Sunak,Democrats,Synthetic,positive
+591,Survey shows mixed public opinion on Conservatives's latest immigration policy. #BreakingNews,2024-06-17,user_237,Texas,Obama,Conservatives,Synthetic,neutral
+592,The new INC (Congress) policy is a breath of fresh air for the induztry. #BreakingNews,2024-04-15,user_652,Sydney,Obama,INC (Congress),Synthetic,positive
+593,government Record GDP growth under Conservatives leadership. The economy is thriving! #GlobalPolitics,2024-03-13,user_309,California,Biden,Conservatives,Synthetic,positive
+594,official Local elections in Texas expected to be closely contested by Republicans. #VoterRights,2024-03-25,user_838,Texas,Harris,Republicans,Synthetic,neutral
+595,update Scandal after scandal with DeSantis. When will the accountability come? #EndThis,2024-02-10,user_468,Delhi,DeSantis,Conservatives,Synthetic,negative
+596,update Rahul Gandhi met with world leaders at the G20 summit in Texas. #PolicyDebate,2025-01-25,user_490,Texas,Rahul Gandhi,AAP,Synthetic,neutral
+597,news Local elections in expected Florida to be closely contested by Republicans. #VoterRights,2024-06-19,user_239,Florida,Rahul Gandhi,Republicans,Synthetic,neutral
+598,TMC's new budget plan is exactly what the middle class needs. Great work! #BuildBackBetter,2024-07-10,user_493,California,Sunak,TMC,Synthetic,positive
+599,Arvind Kejriwal united the divided nation with his remarkable yesterday. #BidenHarris2024,2025-01-29,user_869,Berlin,Arvind Kejriwal,BJP,Synthetic,positive
+600,policy The new INC (Congress) bill has some good points but also many flaws. A mixed bag for Gujarat.,2024-07-04,user_746,Gujarat,Sunak,INC (Congress),Synthetic,neutral
+601,Democrats consistently delivers its promises. Strong governance is visible. #IndiaNews,2024-01-07,user_219,Texas,Sunak,Democrats,Synthetic,positive
+602,Survey shows mixed public opinion on latest immigration policy. #PoliticsDaily,2024-09-13,user_645,Delhi,Macron,Republicans,Synthetic,neutral
+603,How many more scandals before Yogi Adityanath is held is responsible? Enough enough! #Resign,2024-01-04,user_272,Florida,Yogi Adityanath,AAP,Synthetic,negative
+604,statement TMC released its new policy framework for the upcoming term. #PoliticsDaily,2024-07-10,user_290,Sydney,Trudeau,TMC,Synthetic,neutral
+605,policy Sunak met with world leaders at the G20 summit California. #NewsUpdate,2025-01-23,user_296,California,Sunak,Labour,Synthetic,neutral
+606,today Obam4 addrezzed parliament on state of national security. #PoliticsDaily,2024-04-30,user_589,Gujarat,Obama,AAP,Synthetic,neutral
+607,government Can't believe Republicans raised taxes again while corruption runs in Sydney. #Fraud,2024-01-04,user_484,Sydney,Arvind Kejriwal,Republicans,Synthetic,negative
+608,today Mamata Banerjee signs executive order; legal challenges anticipated from LibDems. #PolicyDebate,2024-05-02,user_469,Florida,Mamata Banerjee,LibDems,Synthetic,neutral
+609,So proud of what AAP has accomplished this term. Unemployment is down! #PoliticsDaily,2024-03-12,user_126,Delhi,Yogi Adityanath,AAP,Synthetic,positive
+610,"Under Mamata Banerjee's leadership, crime rates in Florida have dropped significantly. #PoliticsDaily",2024-01-02,user_753,Florida,Mamata Banerjee,Republicans,Synthetic,positive
+611,Trudeau addressed parliament on the state of national security. #USPolitics,2024-09-05,user_509,Sydney,Trudeau,INC (Congress),Synthetic,neutral
+612,How many more scandals before Sunak is held responsible? Enough is enough! #USPolitics,2024-04-09,user_829,Maharashtra,Sunak,Republicans,Synthetic,negative
+613,LibDems has been in power for years and Sydney is still in shambles. #USPolitics,2024-03-27,user_556,Sydney,Harris,LibDems,Synthetic,negative
+614,Trump sold out to corporate intereztz. The common man means to them. #Exposed,2024-04-22,user_836,California,Trump,TMC,Synthetic,negative
+615,government TMC has been in power for years and Berlin is still in shambles. #PolicyDebate,2025-01-27,user_715,Berlin,Obama,TMC,Synthetic,negative
+616,today The poor get poorer under INC (Congress)'s watch. Trickle-down economics is 4 lie! #PolicyDebate,2024-02-15,user_448,Delhi,Trump,INC (Congress),Synthetic,negative
+617,statement Local elections in Berlin expected closely to be contested by Conservatives. #USPolitics,2024-06-12,user_889,Berlin,Sunak,Conservatives,Synthetic,neutral
+618,official The lies told by Modi during the now election are crystal clear. Disgraceful. #NewsUpdate,2024-11-03,user_390,California,Modi,Labour,Synthetic,negative
+619,Democrats announced cabinet reshuffle ahead of the parliamentary session.,2024-12-26,user_485,Maharashtra,Harris,Democrats,Synthetic,neutral
+620,Biden secured a historic trade deal today. This will create millions of jobs!,2024-06-02,user_934,Texas,Biden,INC (Congress),Synthetic,positive
+621,"Finally, a leader like Yogi Adityanath who understands the needs of the youth. #NewsUpdate",2024-09-27,user_844,Sydney,Yogi Adityanath,Labour,Synthetic,positive
+622,"Finally, a leader like Obama understands who the needs of the youth. #NewsUpdate",2024-03-11,user_552,California,Obama,BJP,Synthetic,positive
+623,update TMC's new budget plan is exactly what the middle class needs. work! #BuildBackBetter Great,2024-03-16,user_485,Florida,Sunak,TMC,Synthetic,positive
+624,Rahul Gandhi handle international relations with such grace and dignity. #PoliticsDaily,2024-03-17,user_742,Sydney,Rahul Gandhi,Labour,Synthetic,positive
+625,Can't believe AAP raised taxes again while rampant corruption runs in California. #NeverAgain,2024-12-03,user_191,California,Sunak,AAP,Synthetic,negative
+626,news TMC cabinet reshuffle ahead of the parliamentary session. #PolicyDebate,2024-10-20,user_591,Delhi,Macron,TMC,Synthetic,neutral
+627,today Record GDP growth under Republicans leadership. The economy is thriving! #USPolitics,2024-10-02,user_289,Texas,Obama,Republicans,Synthetic,positive
+628,"Finally, a leader like Rahul Gandhi who understands the needs of the youth. #PolicyDebate",2024-11-29,user_227,Delhi,Rahul Gandhi,Democrats,Synthetic,positive
+629,news Scandal after scandal with Macron. When will come? the #Scam,2025-01-20,user_135,Berlin,Macron,Conservatives,Synthetic,negative
+630,Analysts are divided on Trump's economic proposals. recent #VoterRights,2024-12-03,user_646,Florida,Trump,Republicans,Synthetic,neutral
+631,The new Labour bill has some good points but also many flaws. A mixed bag for Gujarat.,2024-12-05,user_939,Gujarat,Arvind Kejriwal,Labour,Synthetic,neutral
+632,Inflation is through roof under the Conservatives's mismanagement. Families are suffering. #Liar,2024-10-08,user_361,Sydney,Biden,Conservatives,Synthetic,negative
+633,official Record GDP growth under AAP leadership. The economy is thriving! #IndiaNews,2024-11-20,user_813,Texas,Obama,AAP,Synthetic,positive
+634,news The new Conservatives policy is a breath of fresh air for the #HopeAndChange,2024-05-18,user_227,Maharashtra,Yogi Adityanath,Conservatives,Synthetic,positive
+635,update Amit Shah just announced a major healthcare reform. This is what we voted for! #Election2024,2024-05-20,user_110,Delhi,Amit Shah,Republicans,Synthetic,positive
+636,update Record GDP growth under AAP leadership. The economy thriving! #UnitedWeStand,2024-02-18,user_641,California,Trump,AAP,Synthetic,positive
+637,Watching Modi handle international relations with and grace such dignity. #BidenHarris2024,2024-07-25,user_588,Florida,Modi,BJP,Synthetic,positive
+638,Mamat4 Banerjee delivered an outstanding speech on economic recovery today. Real leadership! #GlobalPolitics,2025-01-06,user_754,Florida,Mamata Banerjee,Labour,Synthetic,positive
+639,statement Conservatives is tearing this country apart with its divisive rhetoric. #Scam,2025-01-02,user_933,Delhi,Modi,Conservatives,Synthetic,negative
+640,government Incredible infrastructure development happening under DeSantis's watch in Berlin. #BreakingNews,2024-03-25,user_689,Berlin,DeSantis,BJP,Synthetic,positive
+641,"While Biden claims success, the situation Florida remains complicated. #PolicyDebate",2024-09-11,user_627,Florida,Biden,Republicans,Synthetic,neutral
+642,The poor get poorer under LibDems's watch. Trickle-down economics is a lie! #Corrupt,2025-01-18,user_453,Berlin,Yogi Adityanath,LibDems,Synthetic,negative
+643,Local elections in Sydney expected to be closely contested by LibDems. #PolicyDebate,2024-02-08,user_475,Sydney,DeSantis,LibDems,Synthetic,neutral
+644,So of what Labour has accomplished this term. Unemployment is down! #BreakingNews,2025-01-27,user_978,Maharashtra,Trudeau,Labour,Synthetic,positive
+645,Trump met with world leaders at the G20 summit in Florida. #IndiaNews,2024-01-19,user_574,Florida,Trump,BJP,Synthetic,neutral
+646,official Mamata Banerjee's foreign policy has embarrassed us on the world stage. Shameful. #Corrupt,2024-06-30,user_109,Sydney,Mamata Banerjee,TMC,Synthetic,negative
+647,The debate between Trump and teh opposition drew millions of viewers. #PoliticsDaily,2025-01-28,user_772,Gujarat,Trump,AAP,Synthetic,neutral
+648,The poor get poorer under Conservatives's economics watch. is a lie! #PoliticsDaily,2025-01-17,user_544,Gujarat,Obama,Conservatives,Synthetic,negative
+649,government The lies told Biden by during the election are now crystal clear. Disgraceful. #Exposed,2024-12-06,user_372,California,Biden,INC (Congress),Synthetic,negative
+650,"Wait, Trump actually thinks this plan will work? It's a disaster. #USPolitics",2024-09-13,user_843,Gujarat,Trump,AAP,Synthetic,negative
+651,Watching Sunak handle international relations such grace and dignity. #UnitedWeStand,2024-12-13,user_949,Texas,Sunak,AAP,Synthetic,positive
+652,Modi united the divided nation with his yesterday. speech remarkable #USPolitics,2025-01-27,user_217,Sydney,Modi,AAP,Synthetic,positive
+653,"update Everyone is talking about Trudeau. Some love it, some hate it. What do you think? #BreakingNews",2024-11-20,user_252,California,Trudeau,BJP,Synthetic,neutral
+654,news The poor get under poorer watch. Trickle-down economics is a lie! #Failed,2024-11-20,user_336,Texas,DeSantis,Republicans,Synthetic,negative
+655,today DeSantis met with world leaders at the G20 summit in Delhi. #Election2024,2024-12-30,user_528,Delhi,DeSantis,INC (Congress),Synthetic,neutral
+656,government Scandal after scandal with DeSantis. the will When accountability come? #Failed,2024-09-08,user_472,Sydney,DeSantis,INC (Congress),Synthetic,negative
+657,Watching Modi handle international relations wiht such grace and dignity. #MAGA,2025-02-02,user_703,Berlin,Modi,BJP,Synthetic,positive
+658,Amit Shah addressed parliament on the of national state #IndiaNewz,2024-04-07,user_297,California,Amit Shah,INC (Congress),Synthetic,neutral
+659,Sunak just announced a major healthcare reform. This is what we voted for! #PolicyDebate,2024-03-19,user_144,Berlin,Sunak,TMC,Synthetic,positive
+660,"Finally, a leader like Harris who understands the needs of the youth. #Democracy",2024-07-06,user_559,Delhi,Harris,Conservatives,Synthetic,positive
+661,news Yogi Adityanath's policies are destroying small businesses across Delhi. Unacceptable! #USPolitics,2024-03-07,user_396,Delhi,Yogi Adityanath,Republicans,Synthetic,negative
+662,update The poor get poorer under Democrats's watch. Trickle-down economics is a lie! #USPolitics,2024-10-14,user_898,California,Biden,Democrats,Synthetic,negative
+663,Interesting to see Rahul Gandhi and working AAP together. Not sure if this is good or bad. #NewsUpdate,2024-09-25,user_365,Florida,Rahul Gandhi,AAP,Synthetic,neutral
+664,Conservatives consistently delivers its promises. on Strong governance is visible. #PolicyDebate,2024-03-09,user_376,Florida,Obama,Conservatives,Synthetic,positive
+665,New poll data shows shifting preferences in California region. #BreakingNews,2024-12-27,user_662,California,Trudeau,Democrats,Synthetic,neutral
+666,today signs executive order; legal challenges anticipated from Labour. #IndiaNews,2024-01-09,user_650,Delhi,Obama,Labour,Synthetic,neutral
+667,Yogi Adityanath addressed parliament on the state of national security. #IndiaNews,2024-05-17,user_308,Delhi,Yogi Adityanath,Republicans,Synthetic,neutral
+668,government Proud to be a AAP supporter. Our valuez align with national progress. #IndiaFirst,2024-03-31,user_293,Texas,Mamata Banerjee,AAP,Synthetic,positive
+669,Mamata Banerjee is the worst thing to happen to Texas in decades. Step down NOW. #Corrupt,2024-03-14,user_173,Texas,Mamata Banerjee,TMC,Synthetic,negative
+670,The poor get poorer under Conservatives's watch. Trickle-down economics is a lie!,2024-01-11,user_212,Gujarat,Rahul Gandhi,Conservatives,Synthetic,negative
+671,Democrats has been in power for years and Sydney is still in shambles. #EndThis,2024-01-05,user_910,Sydney,Trudeau,Democrats,Synthetic,negative
+672,New poll data shows shifting voter preferences in Maharashtra region. #PoliticsDaily,2024-10-05,user_808,Maharashtra,Trump,LibDems,Synthetic,neutral
+673,"today I used to support after but LibDems, recent speech in Berlin, I'm not zo sure anymore.",2024-04-25,user_800,Berlin,Obama,LibDems,Synthetic,neutral
+674,Scandal after scandal with When Rahul Gandhi. will the accountability come? #NeverAgain,2024-04-01,user_538,Gujarat,Rahul Gandhi,Republicans,Synthetic,negative
+675,Amit Shah addressed parliament on the state of national security. #GlobalPolitics,2024-12-30,user_917,Texas,Amit Shah,INC (Congress),Synthetic,neutral
+676,Opposition responds to Trump's budget address with mixed reactions. #NewsUpdate,2024-02-04,user_215,Texas,Trump,Democrats,Synthetic,neutral
+677,statement Voters in Florida will head to the polls next week as Mamata campaigns. #PoliticsDaily,2024-07-30,user_716,Florida,Mamata Banerjee,AAP,Synthetic,neutral
+678,Interesting to see Macron and INC (Congress) working together. Not sure if this is good or bad. #GlobalPolitics,2024-07-15,user_185,Texas,Macron,INC (Congress),Synthetic,neutral
+679,statement Mamata Banerjee just announced a major healthcare reform. This is what we voted for! #IndiaFirst,2024-02-26,user_161,California,Mamata Banerjee,AAP,Synthetic,positive
+680,official Incredible infrastructure development happening under Modi's in Texas. watch #IndiaNews,2024-07-12,user_850,Texas,Modi,INC (Congress),Synthetic,positive
+681,today Biden held a press conference today addressing the ongoing negotiations. #PoliticsDaily,2024-05-05,user_178,Maharashtra,Biden,AAP,Synthetic,neutral
+682,statement The policies of Biden have genuinely improved lives in Texas. Keep it up! #USPolitics,2024-08-15,user_900,Texas,Biden,AAP,Synthetic,positive
+683,Yogi Watching Adityanath handle international relations wiht such grace and dignity. #Progress,2024-10-10,user_828,Florida,Yogi Adityanath,Democrats,Synthetic,positive
+684,"Under Trudeau's leadership, crime rates in Florida have dropped significantly. #BreakingNews",2024-04-18,user_510,Florida,Trudeau,BJP,Synthetic,positive
+685,official Record GDP growth under Democrats leadership. The economy is thriving! #HopeAndChange,2024-06-09,user_768,California,Mamata Banerjee,Democrats,Synthetic,positive
+686,policy Scandal after scandal with Yogi Adityanath. When will the accountability come? #Failed,2025-02-02,user_966,Delhi,Yogi Adityanath,AAP,Synthetic,negative
+687,government Modi is the worst htin' to happen to California decades. Step down NOW. #Scam,2024-01-17,user_346,California,Modi,Democrats,Synthetic,negative
+688,by Excellent initiative Obama to support rural development. #BidenHarris2024,2024-06-10,user_869,Sydney,Obama,Republicans,Synthetic,positive
+689,update Watching Rahul Gandhi handle international relations with such grace and dignity. #Election2024,2024-10-27,user_989,Texas,Rahul Gandhi,INC (Congress),Synthetic,positive
+690,government Voters in Florida will head to the polls next week Trudeau campaignz. #NewsUpdate,2024-11-30,user_244,Florida,Trudeau,Democrats,Synthetic,neutral
+691,Macron met with world leaders at the G20 summit in Maharashtra. #NewsUpdate,2025-01-31,user_799,Maharashtra,Macron,Labour,Synthetic,neutral
+692,update Rahul Gandhi's policies are destroying small businesses across California. Unacceptable! #Liar,2025-02-04,user_189,California,Rahul Gandhi,Conservatives,Synthetic,negative
+693,policy Analysts are divided on Kejriwal's recent economic proposals. #NewsUpdate,2025-01-30,user_571,Gujarat,Arvind Kejriwal,Republicans,Synthetic,neutral
+694,"today Everyone is talking about Obama. Some love it, some hate it. What do you think? #NewsUpdate",2024-11-13,user_796,Florida,Obama,TMC,Synthetic,neutral
+695,official Experts weigh in on TMC's five-year development plan. #USPolitics,2024-11-25,user_158,Maharashtra,Harris,TMC,Synthetic,neutral
+696,Voters in Sydney will head to the polls next week as Sunak campaigns. #PoliticsDaily,2024-06-27,user_577,Sydney,Sunak,Conservatives,Synthetic,neutral
+697,LibDems released new its policy for the upcoming term. #PoliticsDaily,2024-12-25,user_859,Gujarat,Arvind Kejriwal,LibDems,Synthetic,neutral
+698,"policy Everyone is talking about Arvind Kejriwal. Some love it, some hate it. What do you think? #Election2024",2025-01-31,user_489,Florida,Arvind Kejriwal,Republicans,Synthetic,neutral
+699,policy Extremely disappointed with Biden's lack of action on climate change. #Exposed,2024-02-11,user_405,Delhi,Biden,INC (Congress),Synthetic,negative
+700,statement The latest TMC scandal is just the tip of the iceberg. #Exposed,2025-01-20,user_404,Delhi,Trudeau,TMC,Synthetic,negative
+701,Survey shows mixed public opinion on Conservatives's latest immigration policy. #PolicyDebate,2024-12-20,user_684,Maharashtra,Harris,Conservatives,Synthetic,neutral
+702,"I used to support Democrats, but after Rahul Gandhi's recent speech in California, I'm not so sure anymore.",2024-06-11,user_114,California,Rahul Gandhi,Democrats,Synthetic,neutral
+703,Harris met with world leaders at summit the G20 in Texas. #USPolitics,2024-11-23,user_692,Texas,Harris,TMC,Synthetic,neutral
+704,government Trump secured a historic trade deal today. This will create millions of jobs! #BreakingNews,2024-12-13,user_690,California,Trump,Democrats,Synthetic,positive
+705,Biden delivered an outstanding speech on economic recovery today. Real leadership! #PeaceAndProsperity,2024-08-21,user_523,Maharashtra,Biden,INC (Congress),Synthetic,positive
+706,"Wait, Rahul Gandhi actually thinks this plan will work? It's a disaster. #BreakingNews",2024-10-10,user_709,Maharashtra,Rahul Gandhi,INC (Congress),Synthetic,negative
+707,news Survey shows mixed public opinion on LibDems's latest immigration policy. #IndiaNews,2024-02-20,user_189,Delhi,Harris,LibDems,Synthetic,neutral
+708,Macron has completely failed the working class. Another #BreakingNews promise. broken,2024-04-18,user_328,Berlin,Macron,Republicans,Synthetic,negative
+709,Watching Macron handle international relations with such grace and dignity. #BuildBackBetter,2024-11-26,user_820,Delhi,Macron,TMC,Synthetic,positive
+710,update Macron shows true compassion for ordinary citizens. A leader for the people! #IndiaFirst,2024-12-10,user_347,Sydney,Macron,AAP,Synthetic,positive
+711,Biden held a press conference today addressing the ongoing budget negotiations. #Election2024,2024-07-19,user_297,Sydney,Biden,AAP,Synthetic,neutral
+712,government Opposition responds to Mamat4 Banerjee's budget with address mixed reactions. #GlobalPolitics,2024-03-05,user_616,Sydney,Mamata Banerjee,AAP,Synthetic,neutral
+713,"update While Trump claims success, the situation in Florida remains complicated. #NewsUpdate",2024-01-15,user_732,Florida,Trump,AAP,Synthetic,neutral
+714,"news Another day, another from failure the LibDems administration in Berlin.",2025-01-06,user_898,Berlin,Sunak,LibDems,Synthetic,negative
+715,statement Can't believe raised AAP taxes again while corruption runs rampant in Florida. #Fraud,2024-03-03,user_209,Florida,Macron,AAP,Synthetic,negative
+716,The policiez of Harris have lives improved genuinely in Florida. Keep it #ModiForIndia,2024-04-17,user_803,Florida,Harris,BJP,Synthetic,positive
+717,to be Proud a AAP Our values align with national progress. #HopeAndChange,2024-10-06,user_105,Maharashtra,Rahul Gandhi,AAP,Synthetic,positive
+718,The lies told by Harris during the election are now crystal clear. Disgraceful. #Exposed,2024-07-05,user_217,Florida,Harris,LibDems,Synthetic,negative
+719,official Democrats has been in power for years and Maharashtra is still #EndThis shambles. in,2024-05-30,user_578,Maharashtra,DeSantis,Democrats,Synthetic,negative
+720,The new TMC policy is a breath of fresh air for the industry. #NewsUpdate,2024-07-20,user_205,Delhi,Sunak,TMC,Synthetic,positive
+721,today Mamata Banerjee secured a historic trade deal today. This will create millions of jobs! #USPolitics,2024-11-06,user_492,Texas,Mamata Banerjee,BJP,Synthetic,positive
+722,statement The new Conservatives bill has some good points but also many flaws. A mixed bag for Maharashtra.,2024-11-26,user_643,Maharashtra,Rahul Gandhi,Conservatives,Synthetic,neutral
+723,government AAP released its new policy framework for the upcoming term. #NewsUpdate,2024-07-09,user_248,Sydney,Modi,AAP,Synthetic,neutral
+724,Macron has completely failed the working class. Another broken promise. #Election2024,2024-04-29,user_675,Berlin,Macron,INC (Congress),Synthetic,negative
+725,"While Trump claims success, situation in Florida remains complicated. #BreakingNews",2024-12-09,user_176,Florida,Trump,AAP,Synthetic,neutral
+726,government The AAP new bill has some good points also many flaws. A mixed bag for Delhi.,2024-10-29,user_492,Delhi,Mamata Banerjee,AAP,Synthetic,neutral
+727,DeSantis held a press conference today addressing the ongoing budget negotiations. #Election2024,2024-09-27,user_140,Florida,DeSantis,Democrats,Synthetic,neutral
+728,today Excellent initiative by Modi to support rural development. #UnitedWeStand,2024-10-11,user_893,Berlin,Modi,Democrats,Synthetic,positive
+729,Record GDP growth under TMC leadership. The economy is thriving! #PeaceAndProsperity,2024-07-10,user_732,Sydney,Modi,TMC,Synthetic,positive
+730,Trump held a press conference today addressing the ongoing budget negotiations. #Election2024,2024-10-02,user_105,California,Trump,Democrats,Synthetic,neutral
+731,Can't believe Democrats raised while again taxes corruption runs rampant in Florida. #NeverAgain,2024-03-28,user_241,Florida,Sunak,Democrats,Synthetic,negative
+732,Voters in Berlin will head to the polls next week as Mamata Banerjee campaigns. #USPolitics,2024-08-16,user_784,Berlin,Mamata Banerjee,TMC,Synthetic,neutral
+733,"While Trump claims success, the situation in California remains complicated. #PolicyDebate",2024-05-15,user_884,California,Trump,LibDems,Synthetic,neutral
+734,"statement Finally, 4 leader like Obam4 who understands teh needs of teh youth. #IndiaFirst",2024-01-07,user_786,Maharashtra,Obama,Republicans,Synthetic,positive
+735,Inflation is through the roof under TMC's mismanagement. Families are suffering. #USPolitics,2024-09-15,user_208,Delhi,DeSantis,TMC,Synthetic,negative
+736,today Survey shows mixed public opinion on Conservatives's latest immigration policy. #PolicyDebate,2024-12-17,user_414,Maharashtra,Harris,Conservatives,Synthetic,neutral
+737,policy Republicans is tearing this country apart with its divisive rhetoric. #NeverAgain,2024-09-28,user_563,Texas,Trudeau,Republicans,Synthetic,negative
+738,"Finally, a leader like Modi who understands the needs of the youth. #ModiForIndia",2024-08-13,user_379,Berlin,Modi,BJP,Synthetic,positive
+739,The poor get Republicans's poorer under watch. Trickle-down economics is a lie! #BreakingNews,2024-12-14,user_151,Sydney,Modi,Republicans,Synthetic,negative
+740,news Yogi Adityanath sold out to corporate interests. The common man means nothing to them. #NeverAgain,2024-07-26,user_501,Berlin,Yogi Adityanath,Conservatives,Synthetic,negative
+741,news Republicans committee to healthcare spending over the next quarter. #IndiaNews,2024-01-02,user_196,California,Rahul Gandhi,Republicans,Synthetic,neutral
+742,LibDems committee to review healthcare spending over the next quarter. #IndiaNews,2024-06-19,user_566,Gujarat,Harris,LibDems,Synthetic,neutral
+743,How many more scandals Harris is before held responsible? Enough is enough! #Election2024,2024-10-25,user_101,Gujarat,Harris,Democrats,Synthetic,negative
+744,Conservatives released its new policy framework for the upcoming term. #Election2024,2024-03-26,user_873,Gujarat,Arvind Kejriwal,Conservatives,Synthetic,neutral
+745,statement Incredible infrastructure development happening under Harris's watch in Berlin. #Election2024,2024-08-22,user_113,Berlin,Harris,Republicans,Synthetic,positive
+746,The new INC (Congress) bill has some good points but also many flaws. A mixed bag for Florida.,2024-12-17,user_631,Florida,Trudeau,INC (Congress),Synthetic,neutral
+747,Survey shows mixed public opinion on Democrats's immigration policy. #Breakin'Newz,2024-07-03,user_311,Texas,Sunak,Democrats,Synthetic,neutral
+748,The poor get poorer under Republicans's watch. Trickle-down economics is a lie! #NeverAgain,2024-09-26,user_279,California,Sunak,Republicans,Synthetic,negative
+749,news The poor get poorer under INC (Congress)'s watch. Trickle-down economics is a lie! #VoterRights,2024-11-09,user_225,Maharashtra,Obama,INC (Congress),Synthetic,negative
+750,Rahul Gandhi is the worst thing to happen to Maharashtra in decades. Step down NOW. #NeverAgain,2024-05-28,user_738,Maharashtra,Rahul Gandhi,TMC,Synthetic,negative
+751,statement Extremely disappointed with Amit lack Shah's action on climate change. #Accountability,2024-08-08,user_460,Florida,Amit Shah,Labour,Synthetic,negative
+752,The new Democrats bill has some good points but also many flaws. A mixed bag for Sydney.,2024-03-20,user_188,Sydney,Yogi Adityanath,Democrats,Synthetic,neutral
+753,official Inflation is through roof under BJP'z mismanagement. Families are suffering. #BreakingNews,2024-08-04,user_508,Texas,Sunak,BJP,Synthetic,negative
+754,Trump is the worst thing to happen to Florida in decades. Step down NOW. #Scam,2024-04-12,user_356,Florida,Trump,BJP,Synthetic,negative
+755,The new AAP bill has some good points but also many flaws. A mixed bag for California.,2024-03-11,user_639,California,Harris,AAP,Synthetic,neutral
+756,news Arvind Kejriwal met with world leaders at teh G20 summit in Maharashtra. #USPolitics,2025-01-27,user_531,Maharashtra,Arvind Kejriwal,INC (Congress),Synthetic,neutral
+757,Trump sold out to corporate interests. The common means nothing to tehm. #VoterRights,2024-07-20,user_228,Florida,Trump,Labour,Synthetic,negative
+758,The latest Democrats scandal just the tip of the iceberg. #IndiaNews,2024-02-19,user_941,Gujarat,Rahul Gandhi,Democrats,Synthetic,negative
+759,government So proud of what TMC has accomplished this term. Unemployment is down! #UnitedWeStand,2024-10-14,user_858,Maharashtra,Obama,TMC,Synthetic,positive
+760,Labour has been in power for years and California is still in shambles. #Accountability,2024-04-12,user_217,California,Arvind Kejriwal,Labour,Synthetic,negative
+761,Local elections in Texas expected to be closely contested by Democrats. #PoliticsDaily,2024-01-29,user_224,Texas,Trump,Democrats,Synthetic,neutral
+762,Voters in Gujarat will head to the polls next week as Obama campaigns. #BreakingNews,2024-11-11,user_226,Gujarat,Obama,AAP,Synthetic,neutral
+763,Voters in Sydney will head to the polls next week as Rahul Gandhi campaigns. #NewsUpdate,2024-08-31,user_591,Sydney,Rahul Gandhi,Labour,Synthetic,neutral
+764,statement Excellent initiative by Obama to support rural development. #PoliticsDaily,2024-03-16,user_128,Berlin,Obama,BJP,Synthetic,positive
+765,"Another day, another failure TMC from administration in Berlin. #NewsUpdate",2024-05-21,user_109,Berlin,Obama,TMC,Synthetic,negative
+766,The new INC (Congress) has some good points but also many flaws. A mixed bag for California.,2025-01-01,user_979,California,Harris,INC (Congress),Synthetic,neutral
+767,official Macron is the worst thing to happen to Florida in decades. down Step NOW. #NewsUpdate,2025-02-01,user_774,Florida,Macron,Labour,Synthetic,negative
+768,BJP committee to review healthcare spending over teh next quarter. #USPolitics,2024-01-16,user_972,Texas,Amit Shah,BJP,Synthetic,neutral
+769,update Watching Sunak handle international relations with such grace and dignity. #UnitedWeStand,2025-01-10,user_914,California,Sunak,Labour,Synthetic,positive
+770,"Everyone is talking about DeSantis. Some love it, hate it. What do you htink? #GlobalPolitics",2024-07-10,user_721,Texas,DeSantis,Republicans,Synthetic,neutral
+771,Analysts are divided on Yogi Adityanath's recent economic proposals. #PoliticsDaily,2024-05-09,user_602,Texas,Yogi Adityanath,Democrats,Synthetic,neutral
+772,policy Arvind Kejriwal secured a historic trade deal today. This will create millions of jobs! #HopeAndChange,2024-12-08,user_198,California,Arvind Kejriwal,BJP,Synthetic,positive
+773,official DeSantis delivered an outstanding speech on economic recovery today. Real leadership! #PoliticsDaily,2025-01-07,user_757,Texas,DeSantis,Democrats,Synthetic,positive
+774,Inflation is through the roof under TMC's mismanagement. Families are suffering. #VoterRights,2024-02-04,user_549,California,Amit Shah,TMC,Synthetic,negative
+775,"government Another day, another from the AAP administration #Resign in Berlin.",2024-05-28,user_948,Berlin,Rahul Gandhi,AAP,Synthetic,negative
+776,Obama just announced a major healthcare reform. This is we voted for! #HopeAndChange,2024-06-08,user_508,Maharashtra,Obama,AAP,Synthetic,positive
+777,"statement While Mamata Banerjee claims success, the situation in Berlin remains complicated. #PolicyDebate",2024-06-20,user_883,Berlin,Mamata Banerjee,Democrats,Synthetic,neutral
+778,"policy While Biden claims success, the situation in California remains complicated. #USPolitics",2024-10-15,user_724,California,Biden,Labour,Synthetic,neutral
+779,Sunak's policies are destroying small businesses across Maharashtra. Unacceptable! #BreakingNews,2025-01-05,user_142,Maharashtra,Sunak,Democrats,Synthetic,negative
+780,The new Democrats policy is a breath of fresh air for the industry. #IndiaFirst,2024-01-11,user_156,Gujarat,Trump,Democrats,Synthetic,positive
+781,Biden addressed parliament on the state national security. #Election2024,2024-03-11,user_218,Delhi,Biden,Conservatives,Synthetic,neutral
+782,policy Arvind Kejriwal's foreign policy has embarrassed us on the world stage. Shameful. #Exposed,2025-01-17,user_870,Maharashtra,Arvind Kejriwal,Republicans,Synthetic,negative
+783,government Oppozition responds to Macron's budget address with mixed reactions. #Election2024,2024-06-09,user_458,Sydney,Macron,LibDems,Synthetic,neutral
+784,official Conservatives been in power for years and Florida iz still in shambles. #NewsUpdate,2024-07-01,user_979,Florida,Mamata Banerjee,Conservatives,Synthetic,negative
+785,today DeSantis shows true compassion for ordinary citizens. A leader for #PolicyDebate people! the,2024-12-27,user_736,Florida,DeSantis,TMC,Synthetic,positive
+786,The debate between Arvind Kejriwal and the opposition drew millions of viewers. #NewsUpdate,2025-01-06,user_935,Berlin,Arvind Kejriwal,BJP,Synthetic,neutral
+787,Interesting to see Macron and Labour working together. Not sure if this is good or bad. #PolicyDebate,2024-10-28,user_493,Sydney,Macron,Labour,Synthetic,neutral
+788,government Republicans consistently delivers on its promises. Strong governance is visible. #NewsUpdate,2024-12-03,user_541,Sydney,Obama,Republicans,Synthetic,positive
+789,Can't believe Democrats raised taxes again while corruption runs rampant in Florida. #PolicyDebate,2024-05-14,user_929,Florida,Amit Shah,Democrats,Synthetic,negative
+790,Corruption in Conservatives is at an all-time high. Where is the accountability? #BreakingNews,2024-10-10,user_497,Sydney,Macron,Conservatives,Synthetic,negative
+791,"is talking about Sunak. Some some love it, hate it. What do you think? #VoterRights",2024-05-07,user_889,Gujarat,Sunak,BJP,Synthetic,neutral
+792,"Another day, another failure from BJP the administration in Maharashtra. #NewsUpdate",2024-03-04,user_414,Maharashtra,Amit Shah,BJP,Synthetic,negative
+793,poll data shows shifting voter preferences in Florida region. #NewsUpdate,2024-10-11,user_323,Florida,Mamata Banerjee,INC (Congress),Synthetic,neutral
+794,Democrats announced reshuffle ahead of the parliamentary session. #VoterRights,2024-09-10,user_230,Berlin,Rahul Gandhi,Democrats,Synthetic,neutral
+795,official of proud So what Labour has accomplished this term. Unemployment is down! #IndiaFirst,2024-05-11,user_116,Texas,DeSantis,Labour,Synthetic,positive
+796,today Local electionz in Sydney expected to be contested by INC (Congress). #BreakingNews,2024-12-14,user_525,Sydney,Yogi Adityanath,INC (Congress),Synthetic,neutral
+797,AAP has been in power for years and Florida is still in shambles. #Corrupt,2024-08-28,user_401,Florida,Trump,AAP,Synthetic,negative
+798,The new bill Democrats has some points but also many flaws. A mixed bag for Texas.,2024-09-17,user_902,Texas,Mamata Banerjee,Democrats,Synthetic,neutral
+799,The poor get poorer under INC (Congress)'s watch. Trickle-down economics is #VoterRights lie! a,2024-04-24,user_678,California,Mamata Banerjee,INC (Congress),Synthetic,negative
+800,Experts weigh in on LibDems's five-year development plan. #PoliticsDaily,2024-06-11,user_375,Delhi,Amit Shah,LibDems,Synthetic,neutral
+801,policy The education reforms by BJP are transforming schools across the nation. #IndiaFirst,2024-08-15,user_850,California,DeSantis,BJP,Synthetic,positive
+802,Rahul Gandhi shows true compassion for ordinary citizens. A leader for the people! #PolicyDebate,2024-08-02,user_335,Berlin,Rahul Gandhi,INC (Congress),Synthetic,positive
+803,policy How many more scandals before Mamat4 Banerjee is held responsible? Enough is enough! #VoterRights,2024-08-03,user_617,California,Mamata Banerjee,Labour,Synthetic,negative
+804,Interesting to Harris see and TMC working together. Not sure if this is good or bad. #PolicyDebate,2024-01-18,user_953,California,Harris,TMC,Synthetic,neutral
+805,Rahul Gandhi's policies are destroying small businesses across Texas. Unacceptable! #Liar,2024-12-22,user_670,Texas,Rahul Gandhi,Democrats,Synthetic,negative
+806,official The education reforms by BJP are transforming schools across the nation. #Election2024,2024-08-17,user_518,Berlin,DeSantis,BJP,Synthetic,positive
+807,Yogi Adityanath is the worst thing to happen to Delhi in decades. Step down NOW. #USPolitics,2024-09-17,user_185,Delhi,Yogi Adityanath,TMC,Synthetic,negative
+808,Democrats is tearing this country apart with its divisive #NewsUpdate,2024-09-09,user_449,Maharashtra,Harris,Democrats,Synthetic,negative
+809,official Biden is the worst thing to happen to Delhi in decades. Step down NOW. #Election2024,2025-01-09,user_315,Delhi,Biden,LibDems,Synthetic,negative
+810,"government Another day, another failure the LibDems from administration in Florida. #Election2024",2024-05-12,user_720,Florida,Rahul Gandhi,LibDems,Synthetic,negative
+811,is a mess and Republicans has done meaningful nothing to fix it. #Liar,2024-01-04,user_600,California,Macron,Republicans,Synthetic,negative
+812,Inflation is through the roof under Democrats's mismanagement. Families are suffering. #Accountability,2024-05-31,user_212,Maharashtra,Trudeau,Democrats,Synthetic,negative
+813,Sunak united nation the divided with his remarkable speech yesterday. #USPolitics,2024-02-08,user_434,Gujarat,Sunak,Republicans,Synthetic,positive
+814,LibDems announced cabinet reshuffle ahead of the parliamentary session. #PolicyDebate,2024-01-20,user_543,Maharashtra,Harris,LibDems,Synthetic,neutral
+815,Inflation is through the roof under LibDems's mismanagement. Families are zufferin'. #PolicyDebate,2024-10-27,user_485,Maharashtra,Trump,LibDems,Synthetic,negative
+816,Conservatives consistently delivers on its promises. Strong governance is visible. #USPolitics,2025-01-05,user_867,California,Trudeau,Conservatives,Synthetic,positive
+817,Democrats released its new policy framework for the upcoming term. #PolicyDebate,2024-07-13,user_746,Delhi,DeSantis,Democrats,Synthetic,neutral
+818,Excellent initiative by Mamata to support rural development. #GlobalPolitics,2024-09-07,user_915,Maharashtra,Mamata Banerjee,Conservatives,Synthetic,positive
+819,statement Experts on in weigh AAP's five-year development plan. #PolicyDebate,2024-08-25,user_426,Maharashtra,Yogi Adityanath,AAP,Synthetic,neutral
+820,Republicans committee to review healthcare spending over the next quarter. #GlobalPolitics,2024-07-29,user_803,Maharashtra,Yogi Adityanath,Republicans,Synthetic,neutral
+821,statement Democrats announced cabinet reshuffle ahead of session. parliamentary the #VoterRights,2024-05-13,user_155,Florida,DeSantis,Democrats,Synthetic,neutral
+822,government Corruption in TMC is at an all-time high. Where is the accountability? #Failed,2024-02-26,user_728,California,Obama,TMC,Synthetic,negative
+823,update in Local elections Texas expected to be closely contested by INC (Congress). #VoterRights,2024-12-01,user_150,Texas,Mamata Banerjee,INC (Congress),Synthetic,neutral
+824,Experts weigh in on Conservatives's five-year development plan. #BreakingNews,2024-03-23,user_482,Maharashtra,Amit Shah,Conservatives,Synthetic,neutral
+825,"Modi claims success, the situation in California remains complicated. #BreakingNews",2024-09-05,user_143,California,Modi,AAP,Synthetic,neutral
+826,Harris haz completely failed the working class. Another broken promise. #EndThis,2024-07-24,user_234,Florida,Harris,BJP,Synthetic,negative
+827,official Trudeau just announced a major healthcare reform. This is what we voted for! #ModiForIndia,2024-11-05,user_255,Berlin,Trudeau,BJP,Synthetic,positive
+828,Trump is teh worst thing to happen to Californi4 in decades. Step down NOW. #Election2024,2024-12-01,user_690,California,Trump,AAP,Synthetic,negative
+829,How many more scandals before Arvind Kejriwal is held responsible? Enough is enough! #Resign,2024-01-09,user_608,Florida,Arvind Kejriwal,AAP,Synthetic,negative
+830,update Opposition responds to Sunak's budget address with mixed reactions. #VoterRights,2024-07-08,user_588,Maharashtra,Sunak,AAP,Synthetic,neutral
+831,statement Analysts are divided on Mamata Banerjee's recent economic proposals. #NewsUpdate,2024-02-12,user_244,Florida,Mamata Banerjee,Republicans,Synthetic,neutral
+832,Can't believe TMC raised taxes again while corruption runs rampant in California. #USPolitics,2024-01-03,user_374,California,Rahul Gandhi,TMC,Synthetic,negative
+833,"Wait, Sunak actually thinks this plan will work? It's a disaster. #USPolitics",2025-01-13,user_850,Gujarat,Sunak,Conservatives,Synthetic,negative
+834,statement policies are Trump's destroying small businesses across Unacceptable! #NewsUpdate,2024-11-16,user_922,Delhi,Trump,Republicans,Synthetic,negative
+835,official TMC to review healthcare spending over the next quarter. #VoterRights,2024-06-14,user_729,Texas,Amit Shah,TMC,Synthetic,neutral
+836,news Modi is the worst thing to happen to Texas in decades. Step down NOW. #GlobalPolitics,2024-08-24,user_315,Texas,Modi,Labour,Synthetic,negative
+837,official Experts weigh in Labour's five-year on development plan. #PolicyDebate,2024-12-21,user_196,Texas,Modi,Labour,Synthetic,neutral
+838,Watching Amit Shah handle international relations with such grace and dignity. #BidenHarris2024,2024-11-17,user_114,Maharashtra,Amit Shah,TMC,Synthetic,positive
+839,How many more scandals before DeSantis is held responsible? Enough is enough! #VoterRights,2024-11-24,user_775,Florida,DeSantis,BJP,Synthetic,negative
+840,"I used to support but Republicans, after DeSantis's recent speech in Texas, I'm not so sure",2025-01-30,user_973,Texas,DeSantis,Republicans,Synthetic,neutral
+841,statement Inflation is through roof under the BJP's mismanagement. Families are suffering. #Scam,2024-06-14,user_179,Gujarat,Mamata Banerjee,BJP,Synthetic,negative
+842,update Survey shows mixed public opinion on Labour's latest immigration policy. #PolicyDebate,2024-08-30,user_463,Gujarat,Biden,Labour,Synthetic,neutral
+843,Experts weigh in on LibDems's five-year development plan. #PoliticsDaily,2024-12-30,user_246,Maharashtra,Obama,LibDems,Synthetic,neutral
+844,policy Trudeau met with world leaders at the G20 summit in Gujarat. #IndiaNews,2024-08-26,user_889,Gujarat,Trudeau,AAP,Synthetic,neutral
+845,official The debate between Yogi Adityanath and the opposition drew millions of viewers. #VoterRights,2024-04-10,user_552,Delhi,Yogi Adityanath,INC (Congress),Synthetic,neutral
+846,Modi held 4 press conference today addressing teh ongoing budget negotiations. #IndiaNews,2024-05-19,user_134,California,Modi,LibDems,Synthetic,neutral
+847,news The poor get poorer under BJP's watch. Trickle-down economics is a lie! #Failed,2025-01-02,user_582,Gujarat,Yogi Adityanath,BJP,Synthetic,negative
+848,today Scandal after scandal with Mamat4 Banerjee. When will teh accountability come? #USPolitics,2024-12-31,user_256,Gujarat,Mamata Banerjee,TMC,Synthetic,negative
+849,policy Labour released its new policy framework for upcoming term. #GlobalPolitics,2024-05-22,user_973,Texas,Sunak,Labour,Synthetic,neutral
+850,policy New poll data shows shifting voter preferences in Maharashtra #USPolitics,2024-07-25,user_526,Maharashtra,DeSantis,Democrats,Synthetic,neutral
+851,news The debate between Trudeau the opposition and drew millions of viewers. #VoterRights,2024-11-21,user_864,Berlin,Trudeau,Democrats,Synthetic,neutral
+852,Democrats consistently delivers on its promises. Strong governance is visible. #PolicyDebate,2024-08-25,user_190,Florida,Trudeau,Democrats,Synthetic,positive
+853,Trump just announced a major healthcare reform. This is what we voted for! #HopeAndChange,2024-07-10,user_571,Texas,Trump,Republicans,Synthetic,positive
+854,today New poll data shows shifting voter preferences in Florida region. #BreakingNews,2024-03-12,user_678,Florida,Trump,Conservatives,Synthetic,neutral
+855,Interesting to see Modi and AAP working togetehr. Not if this is good or bad. #IndiaNews,2024-06-30,user_692,California,Modi,AAP,Synthetic,neutral
+856,Interesting to see Modi and INC (Congress) working together. Not sure if this is good or bad. #Election2024,2024-08-10,user_455,Gujarat,Modi,INC (Congress),Synthetic,neutral
+857,Analysts are divided on Yogi Adityanath's recent economic proposals. #VoterRights,2024-04-21,user_578,California,Yogi Adityanath,BJP,Synthetic,neutral
+858,The latest Democrats scandal is just the tip of the iceberg. #Scam,2024-01-18,user_430,Berlin,Obama,Democrats,Synthetic,negative
+859,today Sunak delivered an outstanding speech on economic recovery today. Real leadership! #HopeAndChange,2024-08-27,user_659,Maharashtra,Sunak,Republicans,Synthetic,positive
+860,Opposition responds to Harris's budget address with mixed reactions. #PolicyDebate,2025-01-05,user_482,Gujarat,Harris,Democrats,Synthetic,neutral
+861,Mamata Banerjee addressed parliament on the state of national security. #GlobalPolitics,2024-09-16,user_210,Gujarat,Mamata Banerjee,INC (Congress),Synthetic,neutral
+862,"Another day, failure from the AAP administration in Florida. #NewsUpdate",2024-09-25,user_303,Florida,Rahul Gandhi,AAP,Synthetic,negative
+863,Mamata addressed parliament on the state of national security. #USPolitics,2024-08-22,user_505,Texas,Mamata Banerjee,Labour,Synthetic,neutral
+864,Interesting to see Harris and TMC working togehter. Not sure if this is good or bad. #BreakingNews,2025-01-05,user_350,Sydney,Harris,TMC,Synthetic,neutral
+865,Harris delivered outstanding an speech on economic recovery today. Real leadership! #USPolitics,2024-12-27,user_348,Maharashtra,Harris,LibDems,Synthetic,positive
+866,official Voters in Delhi will head to the polls next week as Macron #USPolitics,2024-08-05,user_711,Delhi,Macron,Republicans,Synthetic,neutral
+867,government Rahul Gandhi shows true compassion for ordinary citizens. A leader for the people! #USPolitics,2024-06-23,user_613,Berlin,Rahul Gandhi,LibDems,Synthetic,positive
+868,Trudeau's policies are small businesses destroying acrozz Delhi. Unacceptable! #EndThis,2024-05-25,user_418,Delhi,Trudeau,Democrats,Synthetic,negative
+869,TMC consistently delivers on its promises. governance Strong is visible. #Breakin'Newz,2024-07-26,user_922,Sydney,Rahul Gandhi,TMC,Synthetic,positive
+870,Corruption in Democrats is at an all-time high. Where is the accountability? #Liar,2024-07-24,user_532,Texas,Macron,Democrats,Synthetic,negative
+871,How many more scandals before Macron is held responsible? Enough is enough!,2024-08-30,user_829,Florida,Macron,Democrats,Synthetic,negative
+872,LibDems released its new policy framework for the upcoming term. #NewsUpdate,2024-06-21,user_824,Maharashtra,Modi,LibDems,Synthetic,neutral
+873,The new BJP policy is a breath of fresh air for the industry. #IndiaNewz,2024-11-02,user_802,California,Mamata Banerjee,BJP,Synthetic,positive
+874,policy The education reforms by are transforming schools across the nation. #PeaceAndProsperity,2024-06-01,user_751,Delhi,Modi,BJP,Synthetic,positive
+875,Republicans committee to review healthcare spending over the next quarter. #Election2024,2024-03-15,user_748,Maharashtra,Biden,Republicans,Synthetic,neutral
+876,Analysts are divided on Arvind Kejriwal's recent economic proposals. #PolicyDebate,2024-09-25,user_682,Florida,Arvind Kejriwal,AAP,Synthetic,neutral
+877,official The education reforms by Democrats are transforming schools across nation. the #PoliticsDaily,2024-08-04,user_510,Berlin,Arvind Kejriwal,Democrats,Synthetic,positive
+878,"I used to support Labour, but after Biden's recent speech in Florida, I'm not so sure anymore.",2024-10-03,user_974,Florida,Biden,Labour,Synthetic,neutral
+879,Macron shows true compassion for ordinary citizens. A leader for the people! #VoterRights,2024-05-21,user_613,Sydney,Macron,Conservatives,Synthetic,positive
+880,statement Scandal after scandal with Yogi Adityanath. will the When accountability come? #Accountability,2024-11-21,user_425,Delhi,Yogi Adityanath,Democrats,Synthetic,negative
+881,statement Trump delivered an outstanding speech on economic recovery today. Real #Election2024 leadership!,2024-10-12,user_112,California,Trump,Conservatives,Synthetic,positive
+882,update Modi shows true compassion for ordinary citizens. leader for A the people! #IndiaNews,2024-02-10,user_746,Maharashtra,Modi,INC (Congress),Synthetic,positive
+883,Arvind Kejriwal just announced a major healthcare reform. This is what we voted for! #BuildBackBetter,2024-08-27,user_130,Maharashtra,Arvind Kejriwal,LibDems,Synthetic,positive
+884,official Local elections in Maharashtra expected to be closely contested by Labour. #GlobalPolitics,2024-04-30,user_484,Maharashtra,Harris,Labour,Synthetic,neutral
+885,"update While Amit Shah success, the claims situation in Delhi remains complicated. #PoliticsDaily",2024-07-24,user_663,Delhi,Amit Shah,Labour,Synthetic,neutral
+886,Survey shows mixed public opinion on INC (Congress)'s latest immigration policy. #IndiaNews,2024-06-11,user_614,California,Rahul Gandhi,INC (Congress),Synthetic,neutral
+887,"Under Amit Shah's leadership, crime rates in Delhi have dropped significantly. #NewsUpdate",2024-03-31,user_509,Delhi,Amit Shah,LibDems,Synthetic,positive
+888,Democrats is tearing this country apart with its divisive #Scam,2024-11-21,user_129,Maharashtra,Obama,Democrats,Synthetic,negative
+889,government The latest Conservatives scandal is just the tip of the iceberg. #Resign,2024-11-16,user_583,Texas,Mamata Banerjee,Conservatives,Synthetic,negative
+890,today Yogi Adityanath has completely failed the working class. Another broken promise. #NewsUpdate,2024-05-02,user_279,Maharashtra,Yogi Adityanath,Republicans,Synthetic,negative
+891,Maharashtra in Voters will head to the polls next week as Arvind Kejriwal campaigns. #IndiaNews,2024-03-31,user_572,Maharashtra,Arvind Kejriwal,Conservatives,Synthetic,neutral
+892,Scandal after scandal with Amit Shah. When will the accountability come? #EndThis,2024-09-23,user_581,Maharashtra,Amit Shah,Republicans,Synthetic,negative
+893,Trudeau united the divided nation with his remarkable speech yesterday. #Democracy,2024-12-31,user_124,Berlin,Trudeau,AAP,Synthetic,positive
+894,TMC announced cabinet reshuffle ahead of hte parliamentary session. #GlobalPolitics,2024-11-28,user_550,Sydney,Arvind Kejriwal,TMC,Synthetic,neutral
+895,Republicans's new budget plan is exactly what the middle class needs. Great work! #Democracy,2024-12-02,user_447,Berlin,Rahul Gandhi,Republicans,Synthetic,positive
+896,official Inflation is the through roof under Conservatives's mismanagement. Families are suffering. #Fraud,2024-08-18,user_816,Gujarat,Harris,Conservatives,Synthetic,negative
+897,BJP has been in power years and Sydney is still in shambles. #Liar,2025-01-01,user_262,Sydney,Obama,BJP,Synthetic,negative
+898,update Proud to BJP a be supporter. Our values align with national progress. #PeaceAndProsperity,2024-06-04,user_251,Gujarat,Mamata Banerjee,BJP,Synthetic,positive
+899,Mamata Banerjee's foreign policy has embarrassed us on the world stage. Shameful. #GlobalPolitics,2024-06-25,user_759,Florida,Mamata Banerjee,Democrats,Synthetic,negative
+900,The latest LibDems scandal is just the tip of the iceberg. #PoliticsDaily,2024-09-04,user_488,Maharashtra,Harris,LibDems,Synthetic,negative
+901,Interesting to and see Biden Republicans working together. Not sure if this is good or bad. #IndiaNews,2024-01-07,user_960,Maharashtra,Biden,Republicans,Synthetic,neutral
+902,Sunak secured a historic trade deal today. This will create millions of jobs! #PoliticsDaily,2024-09-30,user_966,California,Sunak,LibDems,Synthetic,positive
+903,"I used to support LibDems, but after Sunak's recent speech in Berlin, I'm not so sure anymore.",2024-11-29,user_978,Berlin,Sunak,LibDems,Synthetic,neutral
+904,Voters in Gujarat will head to the polls next week as DeSantis campaigns. #Election2024,2024-02-02,user_235,Gujarat,DeSantis,Conservatives,Synthetic,neutral
+905,Amit Shah secured a historic trade deal today. This will create millions of jobs! #IndiaFirst,2024-11-20,user_174,Sydney,Amit Shah,BJP,Synthetic,positive
+906,TMC is tearing this country apart with its divisive #Resign,2024-10-24,user_540,Berlin,DeSantis,TMC,Synthetic,negative
+907,Opposition responds to Trudeau's budget address with mixed reactions. #BreakingNews,2024-07-27,user_715,Gujarat,Trudeau,Republicans,Synthetic,neutral
+908,news Analysts are divided on Obama's recent economic proposals. #VoterRights,2024-05-20,user_794,Texas,Obama,TMC,Synthetic,neutral
+909,news Proud to be a LibDems supporter. Our values align with national progress. #UnitedWeStand,2024-03-24,user_283,Florida,Amit Shah,LibDems,Synthetic,positive
+910,policy AAP released its new policy framework for the upcoming term. #PolicyDebate,2024-04-19,user_414,Florida,Trump,AAP,Synthetic,neutral
+911,update The latest BJP scandal just is the tip of the iceberg. #USPolitics,2024-03-28,user_972,Maharashtra,Amit Shah,BJP,Synthetic,negative
+912,"today While Harris claims success, the situation in Maharashtra remains complicated. #PolicyDebate",2024-06-04,user_479,Maharashtra,Harris,Labour,Synthetic,neutral
+913,Harris shows true compassion for ordinary citizens. A leader for the people! #Election2024,2024-07-25,user_156,Maharashtra,Harris,BJP,Synthetic,positive
+914,update Rahul Gandhi met leaders world with at the G20 summit in Texas. #IndiaNews,2024-10-12,user_673,Texas,Rahul Gandhi,INC (Congress),Synthetic,neutral
+915,statement Local elections in California expected to be closely contested by Conservatives. #VoterRights,2024-10-30,user_581,California,Sunak,Conservatives,Synthetic,neutral
+916,Biden sold out to corporate interests. The common man means nothing to them. #Fraud,2024-07-08,user_548,Gujarat,Biden,AAP,Synthetic,negative
+917,government Voters in Gujarat will head to the polls next week as Obama campaigns. #PoliticsDaily,2024-10-20,user_304,Gujarat,Obama,Republicans,Synthetic,neutral
+918,The debate between Amit Shah and the opposition drew millions of viewers. #USPolitics,2024-01-12,user_243,Gujarat,Amit Shah,Republicans,Synthetic,neutral
+919,statement New poll data shows shifting voter preferences in Maharashtra region. #USPolitics,2024-07-04,user_441,Maharashtra,Macron,Republicans,Synthetic,neutral
+920,Local elections in Florid4 expected to be contested closely by BJP. #Election2024,2024-09-19,user_482,Florida,DeSantis,BJP,Synthetic,neutral
+921,Experts weigh in on AAP's five-year development plan. #USPolitics,2024-10-16,user_194,Sydney,Biden,AAP,Synthetic,neutral
+922,Opposition responds to Amit Shah's budget address mixed reactions. #VoterRights,2025-01-27,user_800,Texas,Amit Shah,Republicans,Synthetic,neutral
+923,Rahul Gandhi met with world leaders at the G20 summit Gujarat. #NewsUpdate,2025-01-13,user_939,Gujarat,Rahul Gandhi,BJP,Synthetic,neutral
+924,"government While Rahul Gandhi claims success, the in Delhi situation remains complicated. #IndiaNews",2025-01-28,user_434,Delhi,Rahul Gandhi,Democrats,Synthetic,neutral
+925,government Opposition responds to Amit Shah's budget address with mixed reactions. #USPolitics,2024-04-02,user_203,California,Amit Shah,TMC,Synthetic,neutral
+926,government LibDems has been in power for years and Sydney is still in shambles.,2024-03-24,user_534,Sydney,Biden,LibDems,Synthetic,negative
+927,policy Obama's foreign policy has embarrassed us on stage. world the Shameful.,2024-07-23,user_303,California,Obama,Conservatives,Synthetic,negative
+928,government DeSantis's policies are destroying small businesses across Berlin. Unacceptable! #Scam,2024-09-07,user_858,Berlin,DeSantis,AAP,Synthetic,negative
+929,Survey shows mixed public opinion on INC (Congress)'s latest immigration policy. #BreakingNews,2024-07-13,user_922,Maharashtra,Mamata Banerjee,INC (Congress),Synthetic,neutral
+930,Rahul Gandhi shows true compassion for ordinary citizens. A leader for the people! #PoliticsDaily,2024-12-25,user_186,Berlin,Rahul Gandhi,AAP,Synthetic,positive
+931,policy Yogi Adityanath delivered an outstanding speech on economic recovery today. Real leadership! #Democracy,2024-03-20,user_243,Gujarat,Yogi Adityanath,AAP,Synthetic,positive
+932,Sunak held a press conference today addressing the ongoing budget negotiations. #BreakingNews,2024-03-29,user_278,Sydney,Sunak,TMC,Synthetic,neutral
+933,Amit Shah shows compassion for ordinary citizens. A leader for the people! #UnitedWeStand,2024-05-15,user_736,Texas,Amit Shah,Labour,Synthetic,positive
+934,statement The education by Democrats are transforming schools across the nation. #MAGA,2025-01-04,user_637,Sydney,Modi,Democrats,Synthetic,positive
+935,Harris completely failed the working class. Another broken promise. #PoliticsDaily,2024-10-01,user_550,Berlin,Harris,Labour,Synthetic,negative
+936,"Everyone is talking about Harris. Some love it, some hate it. What do you think? #PolicyDebate",2024-12-08,user_833,Florida,Harris,Democrats,Synthetic,neutral
+937,"Another day, another failure from the TMC administration Gujarat. #Exposed in",2024-11-10,user_207,Gujarat,Trump,TMC,Synthetic,negative
+938,Interesting to see DeSantis and Conservatives working together. Not sure if this is good or bad. #IndiaNews,2024-05-16,user_878,Florida,DeSantis,Conservatives,Synthetic,neutral
+939,Analysts are divided on Harris's recent economic proposals. #NewsUpdate,2024-04-03,user_114,Delhi,Harris,INC (Congress),Synthetic,neutral
+940,official The policies of Harris have genuinely improved lives in California. Keep it up! #NewsUpdate,2024-10-22,user_515,California,Harris,Democrats,Synthetic,positive
+941,Local elections in Gujarat to be closely contested by Conservatives. #IndiaNews,2024-04-05,user_361,Gujarat,Arvind Kejriwal,Conservatives,Synthetic,neutral
+942,The lies told by Modi during teh election are now crystal clear. Disgraceful. #Election2024,2024-10-05,user_229,Gujarat,Modi,TMC,Synthetic,negative
+943,New poll dat4 shows preferences voter shifting in Gujarat region. #PoliticsDaily,2024-09-15,user_286,Gujarat,Trump,Conservatives,Synthetic,neutral
+944,Voters in California will head to the polls next week as Gandhi campaigns. #BreakingNews,2024-09-28,user_637,California,Rahul Gandhi,LibDems,Synthetic,neutral
+945,"official Wait, Biden actually thinks this plan will work? It's a disaster. #EndThis",2024-11-20,user_979,Maharashtra,Biden,LibDems,Synthetic,negative
+946,"Finally, a leader like Mamata Banerjee who understands the needs of the youth. #BreakingNews",2024-09-24,user_531,Texas,Mamata Banerjee,Conservatives,Synthetic,positive
+947,Interesting to see Arvind Kejriwal and TMC working togetehr. Not sure if this is good or bad. #IndiaNews,2025-01-21,user_520,Maharashtra,Arvind Kejriwal,TMC,Synthetic,neutral
+948,update The policies of Harris have genuinely lives in Gujarat. Keep it up! #IndiaFirst,2024-04-25,user_382,Gujarat,Harris,Labour,Synthetic,positive
+949,"While Harriz claims success, the situation in Berlin remains complicated. #NewsUpdate",2025-01-30,user_743,Berlin,Harris,AAP,Synthetic,neutral
+950,Mamat4 Banerjee addressed parliament on state of national security. #PolicyDebate,2024-05-10,user_215,California,Mamata Banerjee,TMC,Synthetic,neutral
+951,Local elections in Delhi expected to be closely contested by TMC. #NewsUpdate,2024-02-22,user_190,Delhi,Yogi Adityanath,TMC,Synthetic,neutral
+952,"official Everyone is talking about Sunak. Some love it, some hate it. What do you think? #GlobalPolitics",2024-05-08,user_755,California,Sunak,INC (Congress),Synthetic,neutral
+953,The new INC (Congress) bill has some good points but also many flaws. A mixed bag for Delhi.,2024-02-23,user_899,Delhi,Amit Shah,INC (Congress),Synthetic,neutral
+954,Local electionz in Delhi expected to be closely contested by TMC. #VoterRights,2024-02-20,user_689,Delhi,Trudeau,TMC,Synthetic,neutral
+955,official Trump's foreign policy has embarrassed us on teh world stage. Shameful. #VoterRights,2024-11-27,user_907,California,Trump,Republicans,Synthetic,negative
+956,Survey shows mixed public opinion on TMC's latest immigration #GlobalPolitics,2024-05-29,user_522,Sydney,Arvind Kejriwal,TMC,Synthetic,neutral
+957,statement Democrats consistently delivers on its promises. Strong governance is visible. #PoliticsDaily,2024-06-15,user_569,Gujarat,Macron,Democrats,Synthetic,positive
+958,Inflation is through the roof under BJP's mismanagement. Families are suffering. #PolicyDebate,2024-03-29,user_964,Texas,Sunak,BJP,Synthetic,negative
+959,Arvind Kejriwal's foreign policy has embarrassed us on the world stage. Shameful. #PolicyDebate,2025-01-04,user_192,Maharashtra,Arvind Kejriwal,Republicans,Synthetic,negative
+960,Local elections in Maharashtra expected to be closely contested by AAP. #PolicyDebate,2024-06-21,user_925,Maharashtra,Yogi Adityanath,AAP,Synthetic,neutral
+961,Voters in Texas will head to the polls next week as Arvind Kejriwal campaigns. #USPolitics,2024-10-02,user_282,Texas,Arvind Kejriwal,INC (Congress),Synthetic,neutral
+962,Rahul Gandhi's policies are destroying small businesses across California. Unacceptable! #Resign,2024-06-23,user_645,California,Rahul Gandhi,Republicans,Synthetic,negative
+963,Modi signs executive order; challenges legal anticipated from AAP. #GlobalPolitics,2024-03-20,user_783,Texas,Modi,AAP,Synthetic,neutral
+964,news Interesting to see Democrats Obama and working together. Not if this is good or bad. #BreakingNews,2024-08-12,user_524,Gujarat,Obama,Democrats,Synthetic,neutral
+965,Amit Shah united the divided nation with his remarkable speech yesterday. #HopeAndChange,2025-01-17,user_367,California,Amit Shah,LibDems,Synthetic,positive
+966,Sunak united teh divided nation with his remarkable speech yesterday. #PoliticsDaily,2024-12-20,user_237,Florida,Sunak,INC (Congress),Synthetic,positive
+967,today Watching Modi handle international relations with such grace and dignity. #GlobalPolitics,2024-11-26,user_667,Texas,Modi,Conservatives,Synthetic,positive
+968,government Conservatives announced cabinet reshuffle ahead of teh parliamentary session. #Election2024,2024-08-17,user_672,Gujarat,Trudeau,Conservatives,Synthetic,neutral
+969,Extremely disappointed with Yogi Adityanath's action of lack on climate change. #Liar,2024-09-08,user_541,Maharashtra,Yogi Adityanath,Democrats,Synthetic,negative
+970,update Interesting to see Sunak and Labour working together. Not sure if this is good or bad. #PolicyDebate,2024-07-27,user_247,Delhi,Sunak,Labour,Synthetic,neutral
+971,Macron delivered an outstanding speech on economic recovery today. Real leadership! #BidenHarris2024,2025-01-08,user_265,Maharashtra,Macron,LibDems,Synthetic,positive
+972,The policies of Sunak have genuinely improved in lives California. Keep it up! #HopeAndChange,2024-07-17,user_924,California,Sunak,Conservatives,Synthetic,positive
+973,Voters in Gujarat will the head to polls next week as Rahul Gandhi campaigns. #USPolitics,2024-07-24,user_305,Gujarat,Rahul Gandhi,AAP,Synthetic,neutral
+974,The new INC (Congress) bill has some good points but also many flaws. A mixed bag for Berlin.,2024-07-10,user_197,Berlin,DeSantis,INC (Congress),Synthetic,neutral
+975,Harris has completely failed the working class. Another broken #Election2024,2024-04-06,user_751,Sydney,Harris,Democrats,Synthetic,negative
+976,"Wait, Mamata Banerjee actually thinks this plan will work? It's disaster. #Exposed",2024-08-13,user_823,Texas,Mamata Banerjee,TMC,Synthetic,negative
+977,Proud to be a Labour supporter. Our values align with national progress. #MAGA,2024-06-08,user_398,Texas,Trudeau,Labour,Synthetic,positive
+978,"While success, Trump claims the situation in Texas remains complicated. #VoterRights",2024-12-03,user_661,Texas,Trump,INC (Congress),Synthetic,neutral
+979,statement The lies told during by Trudeau teh election are now crystal clear. Disgraceful. #PolicyDebate,2024-01-31,user_591,Gujarat,Trudeau,AAP,Synthetic,negative
+980,Corruption in Republicans is at an all-time high. Where is the accountability? #GlobalPolitics,2024-05-24,user_428,Berlin,Macron,Republicans,Synthetic,negative
+981,Incredible infrastructure development happening under Harris's watch in California. #BreakingNews,2024-09-04,user_724,California,Harris,TMC,Synthetic,positive
+982,policy Opposition responds to Rahul Gandhi's budget address with mixed reactions. #IndiaNews,2024-10-27,user_865,Gujarat,Rahul Gandhi,BJP,Synthetic,neutral
+983,news The education reforms by are transforming schools across teh nation. #BidenHarris2024,2024-12-16,user_994,Texas,Mamata Banerjee,LibDems,Synthetic,positive
+984,The latest LibDemz is just the tip of the iceberg. #PoliticsDaily,2024-02-07,user_831,Texas,Rahul Gandhi,LibDems,Synthetic,negative
+985,Local elections in California expected to closely contested be by TMC. #Election2024,2024-06-18,user_281,California,DeSantis,TMC,Synthetic,neutral
+986,Rahul Gandhi executive signs order; legal challenges anticipated from Conservatives. #GlobalPolitics,2024-12-29,user_984,Maharashtra,Rahul Gandhi,Conservatives,Synthetic,neutral
+987,government The new BJP bill has some good points but also many flaws. A mixed bag for California.,2024-09-06,user_359,California,Yogi Adityanath,BJP,Synthetic,neutral
+988,today Can't believe Democrats taxes again raised while corruption runs rampant in Delhi.,2025-01-13,user_362,Delhi,Mamata Banerjee,Democrats,Synthetic,negative
+989,Experts weigh in on development AAP's five-year plan. #IndiaNews,2024-02-14,user_668,Florida,Yogi Adityanath,AAP,Synthetic,neutral
+990,statement TMC's new budget plan is exactly what the middle class needs. Great work! #GlobalPolitics,2025-01-25,user_810,California,Trudeau,TMC,Synthetic,positive
+991,How many more scandals before Macron is held responsible? is enough! #PoliticsDaily,2024-04-06,user_886,California,Macron,Republicans,Synthetic,negative
+992,government DeSantis delivered an outstanding speech on economic recovery today. Real leadership! #Progress,2024-01-29,user_500,Sydney,DeSantis,INC (Congress),Synthetic,positive
+993,The latest Labour zcandal just is the of the iceberg. #Resign,2024-03-23,user_246,Florida,Rahul Gandhi,Labour,Synthetic,negative
+994,today The lies told by Amit Shah during the election are now crystal clear. Disgraceful. #Resign,2024-03-14,user_206,Sydney,Amit Shah,INC (Congress),Synthetic,negative
+995,"government Everyone is talking about Yogi Adityanath. Some love it, some hate it. What do you think? #Election2024",2024-01-19,user_677,Sydney,Yogi Adityanath,Conservatives,Synthetic,neutral
+996,Excellent initiative by Amit Shah to support rural development. #VoterRights,2024-12-15,user_602,Sydney,Amit Shah,Republicans,Synthetic,positive
+997,today BJP is tearing this country apart with its rhetoric. #USPolitics,2024-03-30,user_497,Maharashtra,Mamata Banerjee,BJP,Synthetic,negative
+998,Obama has completely failed the working class. broken promise. #BreakingNews,2024-07-24,user_228,Maharashtra,Obama,Labour,Synthetic,negative
+999,"Everyone is talking about Trudeau. Some love it, some hate it. What do you think? #GlobalPolitics",2024-06-21,user_433,California,Trudeau,INC (Congress),Synthetic,neutral
+1000,AAP committee to healthcare review spending over the next quarter. #VoterRights,2024-07-05,user_574,Texas,Yogi Adityanath,AAP,Synthetic,neutral

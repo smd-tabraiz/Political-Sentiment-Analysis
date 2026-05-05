@@ -1,0 +1,45 @@
+
+# Core ML/NLP Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Deep Learning / Transformers
+torch>=2.0.0
+transformers>=4.35.0
+sentencepiece>=0.1.99
+
+# NLP Tools
+nltk>=3.8.1
+spacy>=3.7.0
+langdetect>=1.0.9
+textblob>=0.17.1
+emoji>=2.8.0
+clean-text[simstring]>=0.6.0
+
+# Topic Modeling
+gensim>=4.3.2
+pyLDAvis>=3.4.1
+
+# Visualization
+streamlit>=1.28.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.3
+altair>=5.1.0
+streamlit-option-menu>=0.3.6
+
+# Data processing
+tqdm>=4.66.0
+joblib>=1.3.0
+datasets>=2.14.0
+
+# Dashboard
+streamlit-echarts>=0.4.0
+
+# API Clients (for real data collection)
+tweepy>=4.14.0
+praw>=7.7.0
+python-dotenv>=1.0.0
