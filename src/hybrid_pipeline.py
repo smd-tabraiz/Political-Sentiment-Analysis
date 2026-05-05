@@ -13,13 +13,14 @@ from tqdm import tqdm
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
-# Ensure spacy model is installed: python -m spacy download en_core_web_sm
+# Ensure spacy model is installed
 try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:
     import subprocess
+    import sys
     logger.info("Downloading SpaCy model en_core_web_sm...")
-    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
     nlp = spacy.load("en_core_web_sm")
 
 def ensemble_strategy(row: pd.Series, w_ml: float = 0.7, w_dl: float = 0.3) -> pd.Series:
