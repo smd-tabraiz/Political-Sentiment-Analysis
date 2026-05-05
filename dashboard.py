@@ -217,21 +217,43 @@ def main():
     
     if st.sidebar.button("🛠️ Re-Run Full Analysis Pipeline"):
         with st.sidebar.status("🔄 Running Analysis...", expanded=True) as status:
-            import subprocess
-            cmd = f"python main.py --source {source_map[source_choice]} --max 1000"
-            st.code(cmd)
-            process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+            import sys
+            # Limit samples on cloud to avoid OOM
+            max_samples = 300 if get_secret("DEPLOYMENT_ENV") == "cloud" else 1000
             
-            for line in process.stdout:
-                st.write(f"`{line.strip()}`")
+            cmd = [sys.executable, "main.py", "--source", source_map[source_choice], "--max", str(max_samples)]
+            st.code(" ".join(cmd))
             
-            process.wait()
-            if process.returncode == 0:
-                status.update(label="✅ Pipeline Complete!", state="complete", expanded=False)
-                st.cache_data.clear()
-                st.rerun()
-            else:
-                status.update(label="❌ Pipeline Failed", state="error")
+            try:
+                process = subprocess.Popen(
+                    cmd, 
+                    stdout=subprocess.PIPE, 
+                    stderr=subprocess.STDOUT, 
+                    text=True,
+                    bufsize=1,
+                    universal_newlines=True
+                )
+                
+                # Create a placeholder for real-time logs
+                log_placeholder = st.empty()
+                full_log = ""
+                
+                for line in process.stdout:
+                    full_log += line
+                    log_placeholder.code(full_log[-1000:]) # Show last 1000 chars of logs
+                
+                process.wait()
+                
+                if process.returncode == 0:
+                    status.update(label="✅ Pipeline Complete!", state="complete", expanded=False)
+                    st.cache_data.clear()
+                    st.rerun()
+                else:
+                    status.update(label="❌ Pipeline Failed", state="error")
+                    st.error(f"Pipeline exited with code {process.returncode}. Check logs above for details.")
+            except Exception as e:
+                status.update(label="❌ Execution Error", state="error")
+                st.error(f"Failed to start pipeline: {e}")
 
     st.sidebar.markdown("---")
     st.sidebar.subheader("🚀 Model Tester")

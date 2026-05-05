@@ -20,30 +20,44 @@ def run_all(data_source: str = None, max_samples: int = 3000):
     """
     data_source: "twitter", "reddit", "huggingface", "all", or None (uses .env)
     """
+    try:
+        logger.info(f"=== 1. Collecting Data (Source: {data_source or 'Auto'}) ===")
+        os.makedirs("data", exist_ok=True)
+        if data_source == "synthetic":
+            from data.generate_dataset import generate_dataset
+            df = generate_dataset(max_samples)
+            df.to_csv("data/political_social_media.csv", index=False)
+            logger.info(f"Generated {len(df)} synthetic samples.")
+        else:
+            df = collect_real_data(source=data_source, max_samples=max_samples)
 
-    logger.info(f"=== 1. Collecting Data (Source: {data_source or 'Auto'}) ===")
-    os.makedirs("data", exist_ok=True)
-    if data_source == "synthetic":
-        from data.generate_dataset import generate_dataset
-        df = generate_dataset(max_samples)
-        df.to_csv("data/political_social_media.csv", index=False)
-        logger.info(f"Generated {len(df)} synthetic samples.")
-    else:
-        df = collect_real_data(source=data_source, max_samples=max_samples)
+        logger.info("=== 2. Preprocessing Data ===")
+        run_preprocessing("data/political_social_media.csv", "data/preprocessed.csv")
 
-    logger.info("=== 2. Preprocessing Data ===")
-    run_preprocessing("data/political_social_media.csv", "data/preprocessed.csv")
+        logger.info("=== 3. Training & Running ML Models ===")
+        train_ml_models("data/preprocessed.csv")
 
-    logger.info("=== 3. Training & Running ML Models ===")
-    train_ml_models("data/preprocessed.csv")
+        # Memory Check for Cloud
+        if os.getenv("DEPLOYMENT_ENV") == "cloud":
+            import psutil
+            mem = psutil.virtual_memory()
+            logger.info(f"Memory Check: {mem.percent}% used ({mem.available / (1024**2):.1f}MB available)")
+            if mem.available < 800 * 1024 * 1024: # Less than 800MB
+                logger.warning("Low memory detected! DL Inference might fail.")
 
-    logger.info("=== 4. Running DL Inference ===")
-    run_dl_inference("data/ml_predictions.csv", "data/hybrid_predictions.csv")
+        logger.info("=== 4. Running DL Inference (RoBERTa) ===")
+        run_dl_inference("data/ml_predictions.csv", "data/hybrid_predictions.csv")
 
-    logger.info("=== 5. Running Hybrid Ensemble & NER ===")
-    run_hybrid_pipeline("data/hybrid_predictions.csv", "data/final_results.csv")
+        logger.info("=== 5. Running Hybrid Ensemble & NER ===")
+        run_hybrid_pipeline("data/hybrid_predictions.csv", "data/final_results.csv")
 
-    logger.info("=== Pipeline Complete! Run 'streamlit run dashboard.py' to view results. ===")
+        logger.info("=== Pipeline Complete! ===")
+        
+    except Exception as e:
+        logger.error(f"PIPELINE CRITICAL FAILURE: {e}")
+        import traceback
+        logger.error(traceback.format_exc())
+        raise e
 
 
 if __name__ == "__main__":

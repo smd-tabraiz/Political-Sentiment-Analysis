@@ -1,3 +1,3 @@
-ML Accuracy: 0.958
-DL Accuracy: 0.852
-Hybrid Accuracy: 0.978
+ML Accuracy: 0.5783
+DL Accuracy: 0.6506
+Hybrid Accuracy: 0.6717
